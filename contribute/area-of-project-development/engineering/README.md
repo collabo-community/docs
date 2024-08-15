@@ -74,8 +74,9 @@ git checkout develop
 
 Create your branch using the our branch naming convention:
 
-<pre><code><strong>git checkout -b @GH-replaceThisPartWithYourGitHubIssueTicketNumber
-</strong></code></pre>
+```
+git checkout -b @GH-replaceThisPartWithYourGitHubIssueTicketNumber
+```
 
 For example, if your issue ticket number is `62` on GitHub, you would create the branch like so:
 
