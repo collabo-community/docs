@@ -34,7 +34,7 @@ See tabs below for the different methods/mediums you can use to edit technical o
 {% tab title="Option 1: GitBook" %}
 _**Request access to GitBook**_
 
-Our documentation projects reside on GitBook. Request access to GitBook from the _**@community-coordinator**_, so that you can be given editor access.
+Our community and project documentation reside on GitBook. Request access to GitBook from the _**@community-coordinator**_, so that you can be given editor access.
 
 ***
 
@@ -49,9 +49,19 @@ _**Edit and submit change requests**_
 {% tab title="Option 2: GitHub" %}
 _**GitHub repository for documentation projects**_
 
-Our GitBook docs are synced to one GitHub repository, so that you can find them and edit them on GitHub too.
+Our GitBook community and project docs are synced to one GitHub repository, so that you can find them and edit them on GitHub too.
 
 GitHub repository link: [https://github.com/collabo-community/docs](https://github.com/collabo-community/docs)
+
+***
+
+_**Engineering workflow: Git branch name & technical writing**_
+
+If you are submitting via GitHub, use the naming convention for branch names from the Engineering contribution workflow. The Engineering workflow documentation is also helpful to finding project repos and local development setup, in the case of technical writing.
+
+{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/uGDfGtsUTaBkuk5DjT56/" %}
+[Engineering](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/uGDfGtsUTaBkuk5DjT56/)
+{% endcontent-ref %}
 
 ***
 
