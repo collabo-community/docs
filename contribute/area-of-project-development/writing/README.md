@@ -79,5 +79,7 @@ See the guidelines for submitting pull requests to any of our GitHub repositorie
 
 ## Video and Image dimensions
 
+If the issue ticket you are taking on involves videos or images, the videos and images that you submit should have these dimensions:
+
 * **Video dimension:** 1280 x 720
 * **Image dimensions:** preferably 1280 x 720, but this can change depending on the needs of the doc or markdown involved.
