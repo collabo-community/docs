@@ -1,8 +1,8 @@
 ---
-description: UI/UX DESIGN CONTRIBUTION WORKFLOW
+description: UI/UX & GRAPHICS DESIGN CONTRIBUTION WORKFLOW
 ---
 
-# Contribution Workflow for UI/UX Designers
+# Contribution Workflow for UI/UX & Graphic Designers
 
 ***
 
