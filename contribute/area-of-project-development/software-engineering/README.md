@@ -1,8 +1,8 @@
 ---
-description: SOFTWARE ENGINEERING CONTRIBUTION WORKFLOW
+description: ENGINEERING CONTRIBUTION WORKFLOW
 ---
 
-# Contribution Workflow for Software Engineers
+# Contribution Workflow for Engineers
 
 ***
 
@@ -19,14 +19,14 @@ Visit the contributing guide page below to get directions about what is importan
 ## Finding projects to contribute to with their local development instructions
 
 {% hint style="info" %}
-See _**Project local development instructions**_ from the _**sidebar**_ of this documentation page to find _**Software Engineering**_ project local development instructions documentation pages. You will be able to get the link to the GitHub repository for the project that interests you from the pages there. You will need the link to get the project onto your local computer, as shown in the next steps below.
+See _**Project local development instructions**_ from the _**sidebar**_ of this documentation page to find _**Engineering**_ project local development instructions documentation pages. You will be able to get the link to the GitHub repository for the project that interests you from the pages there. You will need the link to get the project onto your local computer, as shown in the next steps below.
 {% endhint %}
 
 ***
 
 ## Git workflow: Fork and Clone repository
 
-Once you find a Software Engineering project that interests you contribute to, head over to the the _**repository URL**_ i.e. (the Collabo Community's) GitHub repository for that project.
+Once you find an Engineering project that interests you contribute to, head over to the the _**repository URL**_ i.e. (the Collabo Community's) GitHub repository for that project.
 
 {% hint style="info" %}
 Fork the repository. Then clone the forked repository unto your local computer.
@@ -72,9 +72,18 @@ Except you are requested to create your branch from another branch, always creat
 git checkout develop
 ```
 
+Create your branch using the our branch naming convention:
+
+<pre><code><strong>git checkout -b @GH-replaceThisPartWithYourGitHubIssueTicketNumber
+</strong></code></pre>
+
+For example, if your issue ticket number is `62` on GitHub, you would create the branch like so:
+
 ```
-git checkout -b replace-this-part-with-the-name-of-your-new-branch
+git checkout -b @GH-62
 ```
+
+`@GH` simply means the issue ticket is on GitHub. Making use of the ticket's issue number in the branch name, makes it easy to identify and associate the fix you are submitting to the issue ticket.
 
 ***
 
