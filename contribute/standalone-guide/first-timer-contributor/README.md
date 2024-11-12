@@ -6,7 +6,7 @@ icon: hand-wave
 
 ***
 
-_Welcome to Collabo Community! So thrilled that you have made a decision to check out our community and contribute to our projects. This very special guide is to help you quickly get started with contributing to Collabo Community projects._
+Welcome to Collabo Community! So thrilled that you have made a decision to check out our community and contribute to our projects. This very special guide is to help you quickly get started with contributing to Collabo Community projects.
 
 ***
 
