@@ -14,15 +14,20 @@ Welcome to Collabo Community! So thrilled that you have made a decision to check
 
 In case you are wondering where to start from, here's a list of helpful resources and steps to take, as a first timer contributor to the Collabo Community:
 
-* **Step 1 - Start your contributor onboarding:** We'd like to assist you during your contributor journey. Find the contributor onboarding form link here: [google form link](https://docs.google.com/forms/d/e/1FAIpQLSdGT\_IhXXLgmRY3Vxt6AnkMvC0YYmx8sIcuaYIHzvAHHXilxQ/viewform).
-* **Step 2 - Start reading the "Public Collabo Community Documentation Resources":** This contains links to all public community documentation that will help you start contributing to projects, and quickly fit into the community with little or no problems. It is a broad document so we don't expect that you will finish reading it all at once. Just take it one step at a time, take action and ask questions along the way! Find the link to the Public Collabo Community Documentation Resources here: [https://resources.collabo.community](https://resources.collabo.community/)
+* **Step 1 - Start your contributor onboarding:** We'd like to assist you during your contributor journey. Find and fill the contributor onboarding form here: [google form link](https://docs.google.com/forms/d/e/1FAIpQLSdGT\_IhXXLgmRY3Vxt6AnkMvC0YYmx8sIcuaYIHzvAHHXilxQ/viewform).
+* **Step 2 - Read up the Code of Conduct:** Ensure to check out the community rules at [docs.collabo.community/contribute/code-of-conduct](https://docs.collabo.community/contribute/code-of-conduct)
+* **Step 3 - Read up the Contributing Guide:** Check out the contributing guide containing information and resources to make quality contributions: [docs.collabo.community/contribute](https://docs.collabo.community/contribute)
 
 ***
 
 ## Partake in our contribution workflow training
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Ignore this section about contribution working training, if your work does not involve submitting your work/solutions using git or GitHub.
+{% endhint %}
+
+{% hint style="info" %}
+Access project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
 {% endhint %}
 
 Contribution workflow training link: [https://github.com/orgs/collabo-community/projects/1?pane=issue\&itemId=76078529](https://github.com/orgs/collabo-community/projects/1?pane=issue\&itemId=76078529)
@@ -33,7 +38,11 @@ We advise you to partake in and complete the contribution workflow training, if 
 
 ## Take on "good first issue" tickets from our board!
 
-Read up how to navigate through the project board, and get assigned to issue tickets here: [https://docs.collabocommunity.com/project-board](https://docs.collabocommunity.com/project-board). We advise you to start with easy to fix issue tickets, and then gradually work your way up to more complex tickets once you feel confident enough. You can access and pick easy to fix issue tickets on our project board through the links below:
+Read up how to navigate through the project board, and get assigned to issue tickets here: [docs.collabo.community/project-board](https://docs.collabo.community/project-board). We advise you to start with easy to fix issue tickets, and then gradually work your way up to more complex tickets once you feel confident enough. You can access and pick easy to fix issue tickets on our project board through the links below:
+
+{% hint style="info" %}
+Access the project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
+{% endhint %}
 
 * **Engineering "good first issue" tickets**: [Filtered Engineering + good first issue + For: Community project board tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22topic%3A+good+first+issue%22+label%3A%22APD%3A+Software+Engineering%22+label%3A%22For%3A+Community%22)
 * **Technical and non-technical writing "good first issue" tickets:** [Filtered Technical & non-technical writing + good first issue + For: Community project board tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22topic%3A+good+first+issue%22+label%3A%22APD%3A+Technical+and+Non-technical+Writing%22+label%3A%22For%3A+Community%22)
@@ -41,6 +50,10 @@ Read up how to navigate through the project board, and get assigned to issue tic
 
 ***
 
-## Not able to find a project or ticket to work on?
+## Public Collabo Community Documentation Resources
 
-Alert us on our discord community server channels, if you are not able to find something to start working on.
+Find more resources to help you with your contribution journey here, ask us any questions in our discord community: [resources.collabo.community](https://resources.collabo.community)
+
+{% hint style="info" %}
+Not able to find a project or ticket to work on? Alert us on our discord community server channels, if you are not able to find something to start working on.
+{% endhint %}
