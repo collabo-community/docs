@@ -20,8 +20,8 @@ Visit the contributing guide page below to get directions about what is importan
 
 Find projects to contribute to and their descriptions, in the page attached below.
 
-{% content-ref url="https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/" %}
-[Overview: Collabo Community Projects](https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/)
+{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/D4inNwzMBU3WuBySeYcV/" %}
+[Collabo Projects: Overview](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/D4inNwzMBU3WuBySeYcV/)
 {% endcontent-ref %}
 
 ***
