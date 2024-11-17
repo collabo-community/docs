@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview: Collabo Community Projects](README.md)
-* [Collabo Community on Discord](https://resources.collabocommunity.com/p/vmg4PL1ozeI435/Community-and-Documentation)
+* [Collabo Community on Discord](https://resources.collabo.community)
 
 ## COLLABO PROJECTS
 
@@ -11,4 +11,4 @@
 * [Collabo Community App](collabo-projects/collabo-community-app.md)
 * [Collabo Documentation](collabo-projects/collabo-documentation.md)
 * [Internal Projects](collabo-projects/internal-projects.md)
-* [Submit Blog Posts](https://docs.collabocommunity.com/submit-blog-post-guidelines)
+* [Submit Blog Posts](https://docs.collabo.community/submit-blog-post-guidelines)
