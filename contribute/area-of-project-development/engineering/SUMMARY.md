@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Contribution Workflow for Engineers](README.md)
-* [Collabo Community on Discord](https://resources.collabocommunity.com/p/vmg4PL1ozeI435/Community-and-Documentation)
+* [Collabo Community on Discord](https://resources.collabo.community)
 
 ## PROJECT LOCAL DEVELOPMENT INSTRUCTIONS
 

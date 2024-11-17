@@ -19,7 +19,7 @@ Find project description in the page attached below.
 ## Local development instructions
 
 * Head over to the GitHub repository: [https://github.com/collabo-community/collabocate](https://github.com/collabo-community/collabocate)
-* Fork and clone the repository as shown in the [SWE contribution workflow](https://docs.collabocommunity.com/contribute/v/software-engineering/#git-workflow-fork-and-clone-repository).
+* Fork and clone the repository as shown in the [SWE contribution workflow](https://docs.collabo.community/software-engineering#git-workflow-fork-and-clone-repository).
 
 Find the local development instructions for the different Collabocate projects in the tabs below, depending on the one you want to develop locally.
 

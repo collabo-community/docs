@@ -25,7 +25,7 @@ Find the local development instructions for Collabo Community App projects in th
 _**Local development instructions:**_
 
 * Head over to the GitHub repository: [https://github.com/collabo-community/web-client](https://github.com/collabo-community/web-client)
-* Fork and clone the GitHub repository as shown in the [SWE contribution workflow](https://docs.collabocommunity.com/contribute/v/software-engineering/#git-workflow-fork-and-clone-repository)
+* Fork and clone the GitHub repository as shown in the [SWE contribution workflow](https://docs.collabo.community/software-engineering#git-workflow-fork-and-clone-repository)
 
 ***
 
@@ -60,7 +60,7 @@ _**First time Setup Instructions for the mobile client:**_
 _**Local development instructions:**_
 
 * Head over to the GitHub repository: [https://github.com/collabo-community/mobile\_client](https://github.com/collabo-community/mobile\_client)
-* Fork and clone the GitHub repository as shown in the [SWE contribution workflow](https://docs.collabocommunity.com/contribute/v/software-engineering/#git-workflow-fork-and-clone-repository)
+* Fork and clone the GitHub repository as shown in the [SWE contribution workflow](https://docs.collabo.community/software-engineering#git-workflow-fork-and-clone-repository)
 
 ***
 

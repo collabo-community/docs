@@ -10,8 +10,8 @@ description: SOFTWARE ENGINEERING CONTRIBUTING DOC FOR BUILDING BLOCKS
 
 Find project description in the page attached below.
 
-{% content-ref url="https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/building-blocks" %}
-[Building Blocks](https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/building-blocks)
+{% content-ref url="building-blocks.md" %}
+[building-blocks.md](building-blocks.md)
 {% endcontent-ref %}
 
 ***
@@ -19,7 +19,7 @@ Find project description in the page attached below.
 ## Local development instructions
 
 * Head over to the GitHub repository: [https://github.com/collabo-community/building-blocks](https://github.com/collabo-community/building-blocks)
-* Fork and clone the repository as shown in the [SWE contribution workflow](https://docs.collabocommunity.com/contribute/v/software-engineering/#git-workflow-fork-and-clone-repository).
+* Fork and clone the repository as shown in the [SWE contribution workflow](https://docs.collabo.community/software-engineering#git-workflow-fork-and-clone-repository).
 
 Find the local development instructions for the different Building Blocks projects in the tabs below, depending on the one you want to develop locally.
 

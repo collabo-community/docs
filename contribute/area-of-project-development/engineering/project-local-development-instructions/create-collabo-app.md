@@ -25,7 +25,7 @@ Find the local development instructions for the different Create Collabo App pro
 _**Local development instructions:**_
 
 * Head over to the GitHub repository: [https://github.com/collabo-community/create-collabo-app](https://github.com/collabo-community/create-collabo-app)
-* Fork and clone the repository as shown in the [SWE contribution workflow](https://docs.collabocommunity.com/contribute/v/software-engineering/#git-workflow-fork-and-clone-repository).
+* Fork and clone the repository as shown in the [SWE contribution workflow](https://docs.collabo.community/software-engineering#git-workflow-fork-and-clone-repository).
 
 ***
 
@@ -71,7 +71,7 @@ The way you operate/run the CLI is still largely the same as what is in the form
 _**Local development instructions:**_
 
 * Head over to the GitHub repository: [https://github.com/collabo-community/backend-api-boilerplates](https://github.com/collabo-community/backend-api-boilerplates)
-* Fork and clone the repository as shown in the [SWE contribution workflow](https://docs.collabocommunity.com/contribute/v/software-engineering/#git-workflow-fork-and-clone-repository).
+* Fork and clone the repository as shown in the [SWE contribution workflow](https://docs.collabo.community/software-engineering#git-workflow-fork-and-clone-repository).
 
 ***
 
@@ -82,7 +82,7 @@ Once you have the repository on your local computer, follow the steps below.
 {% endhint %}
 
 * Change directory into any of these folders in the repository, depending on the template you wish to work on: `ts-esm-async-await` folder, `js-esm-async-await` folder, `js-cjs-async-await` folder or `js-cjs-then` folder.
-* Once in the chosen folder, follow _**steps 1 to 4**_ in the tabs under the [Running the generated backend API application](https://code-collabo.gitbook.io/node-mongo-user/node-mongo-user-docs/readme#running-the-generated-backend-api-application) section of the former Node mongo user docs, depending on the connection setup type you prefer to use. \
+* Once in the chosen folder, follow _**steps 1 to 4**_ in the tabs under the [Running the generated backend API application](https://docs.collabo.community/node-mongo#running-the-generated-backend-api-application) section of the former Node mongo user docs, depending on the connection setup type you prefer to use. \
   _**Some slight modifications to the steps exist:**_ We have removed the automated dev server for now. For _**step 4**_, just use `npm run dev:atlas` or `npm run dev:local` script commands accordingly.
 
 ***
