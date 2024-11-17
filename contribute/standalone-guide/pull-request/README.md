@@ -12,7 +12,7 @@ Try to submit a pull request for an issue within 2 days of showing interest, eve
 
 * <mark style="background-color:yellow;">Do not submit a pull request for an issue ticket you are not assigned to. It will be counted as spam.</mark>\
   _**Reason:** We want to be clear about who is working on what, and we want to avoid more than one person working on the same issue ticket without knowing it._
-* <mark style="background-color:yellow;">The name of your branch should use the branch naming convention in our</mark> [<mark style="background-color:yellow;">**contribution workflow documentation**</mark>](https://docs.collabocommunity.com/contribute)<mark style="background-color:yellow;">.</mark>\
+* <mark style="background-color:yellow;">The name of your branch should use the branch naming convention in our</mark> [<mark style="background-color:yellow;">**contribution workflow documentation**</mark>](https://docs.collabo.community/contribute)<mark style="background-color:yellow;">.</mark>\
   _**Reason:** It is a way of confirming to maintainers/reviewers, that the issue ticket you are submitting a fix for exists on GitHub. Making use of the ticket's issue number in the branch name, makes it easy to identify and associate the fix you are submitting to the GitHub issue ticket._
 * <mark style="background-color:yellow;">Link your pull request to the issue it aims to fix. Do this in description of the pull request you are submitting.</mark> \
   _**Reason:** The link helps reviewers to easily locate the associated issue ticket._ [_**Watch tutorial**_ ](https://www.youtube.com/watch?v=IqJWDTZdQG4\&list=PLMDhbo3xlD1ESa1\_9WN4yG7bGDDksEQx7\&index=4\&t=301s)_to help understand how to link pull request to issue ticket._
