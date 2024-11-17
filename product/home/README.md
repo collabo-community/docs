@@ -6,7 +6,7 @@ description: COLLABO COMMUNITY USER DOCUMENTATION
 
 ***
 
-_User guide for ready-to-use Collabo Community projects._
+_User guide for ready-for-use Collabo Community projects._
 
 ***
 
