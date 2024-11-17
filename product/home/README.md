@@ -6,10 +6,10 @@ description: COLLABO COMMUNITY USER DOCUMENTATION
 
 ***
 
-_In this guide, you will find the list of projects from our community that you can use in/for your own projects or that you can learn with._
+_User guide for ready-to-use Collabo Community projects._
 
 ***
 
 ## Node Mongo
 
-Build simple to complex backend applications for your projects with our node-mongo packages. Click on this link to go to the download and usage instructions. [_**Go to Node Mongo user docs**_](https://docs.collabocommunity.com/node-mongo)_**.**_
+Build simple to complex backend applications for your projects with our node-mongo packages. Click on this link to go to the download and usage instructions. [_Go to Node Mongo user docs_](https://docs.collabo.community/node-mongo)_**.**_
