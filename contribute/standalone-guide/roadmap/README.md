@@ -3,7 +3,7 @@
 ***
 
 {% hint style="info" %}
-Click on the project links below to find related issue tickets for that project, from our community project board. If a project name is not yet a link, please check back again sometime later. Access project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
+Click on the project links below to find related issue tickets for that project, from our community project board. If a project name is not yet a link, the project may have not yet started; please check back again sometime later. Access project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
 {% endhint %}
 
 ***
@@ -29,22 +29,25 @@ Click on the project links below to find related issue tickets for that project,
 
 > GOAL: Main UI/UX and graphic design projects leaving experimental stage. Release v1.0.0 🎉
 
-* Building blocks UI v1.0.0 designs
-* Create blocks app UI v1.0.0 designs
-* Blocks Doc UI v1.0.0 designs
+1. Create blocks app UI v1.0.0 designs
+2. Blocks Doc UI v1.0.0 designs
 
 ### **Community and documentation**
 
 > GOAL: Community leaving experimental stage. Upgrade to Collabo Community 2.0 🎉
 
-1. ~~Migrate existing documentation resources to new domain's subdomain:~~&#x20;
-   1. ~~resources subdomain:~~ [~~https://resources.collabo.community~~](https://resources.collabo.community/)
-   2. ~~docs subdomain:~~ [~~https://docs.collabo.community~~](https://docs.collabo.community/)
-2. Discord community:&#x20;
-   1. Complete new Discord community structure based on observations and feedback from old Discord community
-   2. Migrate to Discord community
-3. Add new documentation: Roadmap/planning doc.
-4. Upgrade existing documents:
-   1. ~~Code of Conduct~~
-   2. Project overview documentation
+1. Documentation for projects:
+   1. Create blocks app v1.0.0 documentation
+   2. Blocks Doc v1.0.0 documentation
+2. Community migration and upgrade:
+   1. ~~Migrate existing documentation resources to new domain's subdomain:~~&#x20;
+      1. ~~resources subdomain:~~ [~~https://resources.collabo.community~~](https://resources.collabo.community/)
+      2. ~~docs subdomain:~~ [~~https://docs.collabo.community~~](https://docs.collabo.community/)
+   2. Discord community:&#x20;
+      1. Complete new Discord community structure based on observations and feedback from old Discord community
+      2. Migrate to Discord community
+   3. Add new documentation: Roadmap/planning doc.
+   4. Upgrade existing documents:
+      1. ~~Code of Conduct~~
+      2. Project overview documentation
 
