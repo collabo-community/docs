@@ -1,12 +1,4 @@
----
-description: COLLABO COMMUNITY CONTRIBUTOR ROADMAP
----
-
-# Roadmap + Related Project Board Issue Tickets
-
-***
-
-_You will always get to know what we are building or plan to build in public from this page._&#x20;
+# Roadmap: Follow or join our work at Collabo Community
 
 ***
 
@@ -18,7 +10,7 @@ Click on the project links below to find issue tickets for them, from our commun
 
 ## Quarter 1 2025
 
-> GOAL: Main engineering projects leaving experimental stage. Publish v1.0.0 🎉
+> GOAL: Main engineering projects leaving experimental stage. Release v1.0.0 🎉
 
 ### **Engineering**
 
@@ -29,13 +21,17 @@ Click on the project links below to find issue tickets for them, from our commun
    2. Backend:
       1. v1.0.0 Backend boilerplate templates (MongoDB + NodeJS + Typescript)
    3. CLI:
-      1. v1.0.0 Create blocks app CLI ()
+      1. v1.0.0 Create blocks app CLI  (Javascript + NodeJS + Typescript)
 2. Building Blocks:&#x20;
-   1. v1.0.0 Create Create Blocks app UI
+   1. v1.0.0 Blocks Doc UI (Angular+ Typescript)
 
 ### **UI/UX and graphics design**
 
-*
+> GOAL: Main UI/UX and graphic design projects leaving experimental stage. Release v1.0.0 🎉
+
+* Building blocks UI v1.0.0 designs
+* Create blocks app UI v1.0.0 designs
+* Blocks Doc UI v1.0.0 designs
 
 ### **Community and documentation**
 
@@ -44,7 +40,9 @@ Click on the project links below to find issue tickets for them, from our commun
 1. ~~Migrate existing documentation resources to new domain's subdomain:~~&#x20;
    1. ~~resources subdomain:~~ [~~https://resources.collabo.community~~](https://resources.collabo.community/)
    2. ~~docs subdomain:~~ [~~https://docs.collabo.community~~](https://docs.collabo.community/)
-2. Complete new Discord community structure based on observations and feedback from old Discord community.
+2. Discord community:&#x20;
+   1. Complete new Discord community structure based on observations and feedback from old Discord community
+   2. Migrate to Discord community
 3. Add new documentation: Roadmap/planning doc.
 4. Upgrade existing documents:
    1. Code of Conduct
