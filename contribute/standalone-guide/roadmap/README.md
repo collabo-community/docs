@@ -3,12 +3,12 @@
 ***
 
 {% hint style="info" %}
-Click on the project links below to find issue tickets for them, from our community project board. Access project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
+Click on the project links below to find related issue tickets for that project, from our community project board. If a project name is not yet a link, please check back again sometime later. Access project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
 {% endhint %}
 
 ***
 
-## Quarter 1 2025
+## Quarter 1, 2025
 
 ### **Engineering**
 
@@ -19,9 +19,9 @@ Click on the project links below to find issue tickets for them, from our commun
       1. v1.0.0 PWA frontend template (Javascript + Typescript)
       2. v1.0.0 Create blocks app UI (Angular+ Typescript)
    2. Backend:
-      1. v1.0.0 Backend boilerplate templates (MongoDB + NodeJS + Typescript)
+      1. [v1.0.0 Backend boilerplate templates (MongoDB + NodeJS + Typescript)](https://github.com/orgs/collabo-community/projects/1?sliceBy%5Bvalue%5D=Project%3A+Create+Blocks+App\&filterQuery=label%3A%22For%3A+Community%22+label%3A%22APD%3A+Software+Engineering%22+label%3A%22topic%3A+backend-api-boilerplates%22)
    3. CLI:
-      1. v1.0.0 Create blocks app CLI  (Javascript + NodeJS + Typescript)
+      1. [v1.0.0 Create blocks app CLI  (Javascript + NodeJS + Typescript)](https://github.com/orgs/collabo-community/projects/1?sliceBy%5Bvalue%5D=Project%3A+Create+Blocks+App\&filterQuery=label%3A%22For%3A+Community%22+label%3A%22APD%3A+Software+Engineering%22+label%3A%22topic%3A+CLI%22)
 2. Building Blocks:&#x20;
    1. v1.0.0 Blocks Doc UI (Angular+ Typescript)
 
@@ -45,6 +45,6 @@ Click on the project links below to find issue tickets for them, from our commun
    2. Migrate to Discord community
 3. Add new documentation: Roadmap/planning doc.
 4. Upgrade existing documents:
-   1. Code of Conduct
+   1. ~~Code of Conduct~~
    2. Project overview documentation
 
