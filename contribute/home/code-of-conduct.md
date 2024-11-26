@@ -170,9 +170,9 @@ Unacceptable behaviour from any community member, including sponsors and those w
 
 We want to believe that nobody will purposely want to display unacceptable behaviour or break rules in the community. How we handle sensitive and non-sensitive topics in this case:
 
-* **If not related to a sensitive topic:** Community maintainer's response will involve:
+* **If not related to a sensitive topic:**
   * _**Where discussion will hold:**_ Same post discussion thread(s) where it happened.
-  * _**Actions we may take:**_ Depending on the nature and/or severity, community maintainers' response could be any of the following - follow-up comment, orientation calls/training, warning.
+  * _**Actions we may take:**_ Depending on the nature and/or severity, community maintainers' response could be any of the following - simple correction, orientation calls/training, warning.
 * **If related to sensitive topic:**
   * _**Where discussion will hold:**_ Involved party or parties are summoned i.e. Invited to the **#summon** channel for further discussion, and we will investigate when, if or as needed.
   * _**Actions we may take:**_ Depending on the nature and/or severity,  community maintainers' response could be any of the following - strong warning, temporary or permanent ban from the community channels and spaces.
