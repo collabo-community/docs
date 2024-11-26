@@ -10,9 +10,9 @@ Click on the project links below to find issue tickets for them, from our commun
 
 ## Quarter 1 2025
 
-> GOAL: Main engineering projects leaving experimental stage. Release v1.0.0 🎉
-
 ### **Engineering**
+
+> GOAL: Main engineering projects leaving experimental stage. Release v1.0.0 🎉
 
 1. Create Blocks app:
    1. Frontend:&#x20;
