@@ -14,16 +14,15 @@ Click on the project links below to find related issue tickets for that project,
 
 > GOAL: Main engineering projects leaving experimental stage. Release v1.0.0 🎉
 
-1. Create Blocks app:
-   1. Frontend:&#x20;
-      1. v1.0.0 PWA frontend template (Javascript + Typescript)
-      2. v1.0.0 Create blocks app UI (Angular+ Typescript)
-   2. Backend:
-      1. [v1.0.0 Backend boilerplate templates (MongoDB + NodeJS + Typescript)](https://github.com/orgs/collabo-community/projects/1?sliceBy%5Bvalue%5D=Project%3A+Create+Blocks+App\&filterQuery=label%3A%22For%3A+Community%22+label%3A%22APD%3A+Software+Engineering%22+label%3A%22topic%3A+backend-api-boilerplates%22)
-   3. CLI:
-      1. [v1.0.0 Blocks Assistant  (Javascript + NodeJS + Typescript)](https://github.com/orgs/collabo-community/projects/1?sliceBy%5Bvalue%5D=Project%3A+Create+Blocks+App\&filterQuery=label%3A%22For%3A+Community%22+label%3A%22APD%3A+Software+Engineering%22+label%3A%22topic%3A+CLI%22)
-2. Building Blocks:&#x20;
-   1. v1.0.0 Blocks Doc UI (Angular+ Typescript)
+1. Blocks Assistant |  Create Blocks App:
+   1. Frontend: v1.0.0 PWA frontend template (Javascript + Typescript)
+   2. Backend: [v1.0.0 Backend boilerplate templates (MongoDB + NodeJS + Typescript)](https://github.com/orgs/collabo-community/projects/1?sliceBy%5Bvalue%5D=Project%3A+Create+Blocks+App\&filterQuery=label%3A%22For%3A+Community%22+label%3A%22APD%3A+Software+Engineering%22+label%3A%22topic%3A+backend-api-boilerplates%22)
+   3. CLI: [v1.0.0 Blocks Assistant  (Javascript + NodeJS + Typescript)](https://github.com/orgs/collabo-community/projects/1?sliceBy%5Bvalue%5D=Project%3A+Create+Blocks+App\&filterQuery=label%3A%22For%3A+Community%22+label%3A%22APD%3A+Software+Engineering%22+label%3A%22topic%3A+CLI%22)
+2. Building Blocks Framework:&#x20;
+   1. Fullstack: v1.0.0 Blocks Doc UI (Angular+ Typescript)
+   2. Fullstack: v1.0.0 Create blocks app UI (Angular+ Typescript)
+3. Collabocate:
+   1. Fullstack: v1.0.0 Collabocate app plugin (Javascript & Flutter)
 
 ### **UI/UX and graphics design**
 
