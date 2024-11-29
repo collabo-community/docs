@@ -9,6 +9,13 @@ This repository hosts the markdown content for the Collabo Community contributin
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="16.66%"><a href="http://samukothings.com"><img src="https://avatars.githubusercontent.com/u/75276934?v=4?s=100" width="100px;" alt="Obiagba Samuel"/><br /><sub><b>Obiagba Samuel</b></sub></a><br /><a href="https://github.com/collabo-community/docs/commits?author=samuko-things" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
