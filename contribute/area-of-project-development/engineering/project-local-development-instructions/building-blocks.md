@@ -8,8 +8,8 @@ description: SOFTWARE ENGINEERING CONTRIBUTING DOC FOR BUILDING BLOCKS
 
 ## General Information about project
 
-{% content-ref url="building-blocks.md" %}
-[building-blocks.md](building-blocks.md)
+{% content-ref url="https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/building-blocks" %}
+[Building Blocks](https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/building-blocks)
 {% endcontent-ref %}
 
 ***
