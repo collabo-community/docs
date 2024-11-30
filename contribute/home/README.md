@@ -40,10 +40,14 @@ Read up the contribution workflow document guide for the area(s) you are interes
 
 ## Finding issue tickets and assignments to work on
 
-Use the project board to find issue tickets to work on. Also read up why you should first get assigned to an issue from the project board page below.
+Use the project board or roadmap to find issue tickets to work on. Also read up why you should first get assigned to an issue from the project board page below.
 
 {% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/1WERKLU4EwHAfMgNhwEA/" %}
 [Project Board](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/1WERKLU4EwHAfMgNhwEA/)
+{% endcontent-ref %}
+
+{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/xIZH0fUjjRg4ErdE5WPj/" %}
+[Roadmap](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/xIZH0fUjjRg4ErdE5WPj/)
 {% endcontent-ref %}
 
 ***
