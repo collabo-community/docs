@@ -10,6 +10,14 @@ Building Blocks framework revolves around a thought process, as well as a collec
 
 ***
 
+## User documentation
+
+{% hint style="warning" %}
+User documentation for this project is not yet available. Version 1.0.0 development in progress. User documentation will be added once released.
+{% endhint %}
+
+***
+
 ## Follow or join work progress on this project
 
 To follow or join work progress on this project, checkout our roadmap page below:
