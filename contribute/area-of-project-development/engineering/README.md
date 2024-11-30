@@ -1,54 +1,34 @@
 ---
-description: ENGINEERING CONTRIBUTION WORKFLOW
+description: COLLABO COMMUNITY'S ENGINEERING CONTRIBUTION WORKFLOW
 ---
 
 # Contribution Workflow for Engineers
 
 ***
 
-## Community Contributing Guide
-
-Visit the contributing guide page below to get directions about what is important in Collabo Community, and also learn how to make quality contributions to Collabo Community.
-
-{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/XdbpF9uCzy0cC5JUJYyW/" %}
-[Contributing Guide](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/XdbpF9uCzy0cC5JUJYyW/)
-{% endcontent-ref %}
-
-***
-
-## Finding projects to contribute to with their local development instructions
-
-{% hint style="info" %}
-See _**Project local development instructions**_ from the _**sidebar**_ of this documentation page to find _**Engineering**_ project local development instructions documentation pages. You will be able to get the link to the GitHub repository for the project that interests you from the pages there. You will need the link to get the project onto your local computer, as shown in the next steps below.
-{% endhint %}
-
-***
-
 ## Git workflow: Fork and Clone repository
 
-Once you find an Engineering project that interests you contribute to, head over to the the _**repository URL**_ i.e. (the Collabo Community's) GitHub repository for that project.
+**Step 1:** Head over to the the _**repository URL**_ i.e. (the Collabo Community's) GitHub repository for that project.
 
-{% hint style="info" %}
-Fork the repository. Then clone the forked repository unto your local computer.
+{% hint style="warning" %}
+Get the _**repository URL**_ link to the GitHub repository for a project from _**Project local development instructions**_, through the sidebar.&#x20;
 {% endhint %}
 
-**HTTPS url option:** If you are using `https` _**clone url**_, the clone command with your url will look like this:
+**Step 2:** Fork the repository. Then clone the forked repository unto your local computer. Clone URL options explained below:
 
-{% code overflow="wrap" %}
-```
-git clone https://github.com/your-own-github-account-user-name-will-be-here-instead/the-repo-name.git
-```
-{% endcode %}
+* **HTTPS url option:** If you are using `https` _**clone url**_, the clone command with your url will look like this:
 
-**SSH url option:** [See GitHub documentation for SSH configuration](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) incase you wish to be able to work with SSH url for git operations (that is, if you have not set it up before). If you are using `SSH` _**clone url**_, the clone command with your url will look like this:
-
-{% code overflow="wrap" %}
 ```
-git clone git@github.com:your-own-github-account-user-name-will-be-here-instead/the-repo-name.git
+git clone https://github.com/your-github-user-name-here-instead/the-repo-name.git
 ```
-{% endcode %}
 
-{% hint style="info" %}
+* **SSH url option:** [See GitHub documentation for SSH configuration](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) incase you wish to be able to work with SSH url for git operations (that is, if you have not set it up before). If you are using `SSH` _**clone url**_, the clone command with your url will look like this: git@github.com:
+
+```
+git clone git@github.com:your-github-user-name-here-instead/the-repo-name.git
+```
+
+{% hint style="warning" %}
 You can get the url to clone the project with, through the green code button in the repository on Github as shown below in the screenshot.
 {% endhint %}
 
@@ -58,7 +38,7 @@ You can get the url to clone the project with, through the green code button in 
 
 ## Installing dependencies and running the project locally
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Every project may have different instructions for how to install dependencies and how to run the project locally. See _**Project local development instructions**_ from the _**sidebar**_ of this documentation page to get specific instructions for that project.
 {% endhint %}
 
@@ -84,7 +64,9 @@ For example, if your issue ticket number is `62` on GitHub, you would create the
 git checkout -b @GH-62
 ```
 
+{% hint style="warning" %}
 `@GH` simply means the issue ticket is on GitHub. Making use of the ticket's issue number in the branch name, makes it easy to identify and associate the fix you are submitting to the issue ticket.
+{% endhint %}
 
 ***
 
@@ -104,16 +86,10 @@ git commit -m "replace this part with a commit message that describes your chang
 git push origin replace-this-part-with-the-name-of-your-branch
 ```
 
-Then **send a pull request** for your changes to be reviewed.
-
-***
-
-## Pull request guidelines
-
-See page below for the **guidelines for submitting pull requests to any repository**.
+Then **send a pull request**. See page below for the **guidelines for submitting pull requests to any repository**:
 
 {% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/kz0h3jWUEnMa4Mjjkort/" %}
-[Pull Request Guidelines](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/kz0h3jWUEnMa4Mjjkort/)
+[Pull Request Guidelines](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/kz0h3jWUEnMa4Mjjkort/)
 {% endcontent-ref %}
 
 ***

@@ -2,13 +2,11 @@
 description: SOFTWARE ENGINEERING CONTRIBUTING DOC FOR COLLABOCATE
 ---
 
-# Collabocate
+# Collabocate (Javascript)
 
 ***
 
-## Project description - page link
-
-Find project description in the page attached below.
+## General Information about project
 
 {% content-ref url="https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/collabocate" %}
 [Collabocate](https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/collabocate)
@@ -114,6 +112,12 @@ Start the client. In the root of the repository, run this in your terminal:
 ```
 npm run dev:client
 ```
+{% endtab %}
+
+{% tab title="CommuniTime" %}
+{% hint style="warning" %}
+No instructions for now. Please ask about this project on our discord channel if you are interested in contributing.
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 

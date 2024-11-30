@@ -6,9 +6,7 @@ description: SOFTWARE ENGINEERING CONTRIBUTING DOC FOR COLLABO COMMUNITY APP
 
 ***
 
-## Project description - page link
-
-Find project description in the page attached below.
+## General Information about project
 
 {% content-ref url="https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/collabo-community-app" %}
 [Collabo Community App](https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/collabo-community-app)
@@ -59,7 +57,7 @@ _**First time Setup Instructions for the mobile client:**_
 
 _**Local development instructions:**_
 
-* Head over to the GitHub repository: [https://github.com/collabo-community/mobile\_client](https://github.com/collabo-community/mobile\_client)
+* Head over to the GitHub repository: [https://github.com/collabo-community/mobile\_client](https://github.com/collabo-community/mobile_client)
 * Fork and clone the GitHub repository as shown in the [SWE contribution workflow](https://docs.collabo.community/software-engineering#git-workflow-fork-and-clone-repository)
 
 ***
@@ -97,7 +95,7 @@ flutter pub upgrade
 
 {% tab title="Backend Server API" %}
 {% hint style="warning" %}
-The backend aspect of the project has not yet started.
+No instructions for now. Please ask about this project on our discord channel if you are interested in contributing.
 {% endhint %}
 {% endtab %}
 {% endtabs %}

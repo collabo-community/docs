@@ -6,9 +6,7 @@ description: SOFTWARE ENGINEERING CONTRIBUTING DOC FOR BUILDING BLOCKS
 
 ***
 
-## Project description - page link
-
-Find project description in the page attached below.
+## General Information about project
 
 {% content-ref url="building-blocks.md" %}
 [building-blocks.md](building-blocks.md)
@@ -109,8 +107,7 @@ npm link ../building-blocks
 
 {% tab title="Blocks Doc" %}
 {% hint style="warning" %}
-Development for Blocks Doc just recently started, things can change pretty quickly at the start of the project as it also includes research and experimentation.\
-For now, ask about the latest local development instructions on our community Discord server and you'll be directed.
+No instructions for now. Please ask about this project on our discord channel if you are interested in contributing.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
