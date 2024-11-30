@@ -147,6 +147,7 @@ This is a sensitive topic
 * Advocating for, or encouraging, any unacceptable or wanted behaviour will not be tolerated.
 * Purposely making harmful or false claims about a person will not be tolerated.
 * Aiding and abetting someone to break any of the community rules is the same as breaking that rule yourself.
+* Supporting unacceptable or unwanted behaviour through use of text, emojis, voice notes or any other means, is the same as exhibiting the unacceptable behaviour yourself.
 
 ***
 
