@@ -1,8 +1,8 @@
 ---
-description: FIND HIGH LEVEL DESCRIPTION OF PROJECTS AND HOW YOU CAN CONTRIBUTE!
+description: WHERE TO FIND INFORMATION & DIRECTIONS ABOUT COLLABO COMMUNITY PROJECTS
 ---
 
-# Overview: Collabo Community Projects
+# Projects Documentation: Collabo Community
 
 ***
 
@@ -10,18 +10,32 @@ _Projects built within the Collabo Community are not (entirely) new. Like most o
 
 ***
 
-<figure><img src=".gitbook/assets/Twitter-Banner-1b-cropped.jpg" alt=""><figcaption><p>Community building image (modified version), attribution and original in our community resource documentation.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Twitter-Banner-1b-cropped.jpg" alt=""><figcaption><p>Community building and collaboration Image: <a href="https://resources.collabo.community/p/gciMw91qU6jJ23/Attributions">Image Attribution</a></p></figcaption></figure>
 
 ***
 
-Based on the nature of our projects (i.e. based the fact that they each have a lot of moving parts, that they each may have complex web-like connection with other independent projects built within the community, and the new light in which these projects are introduced), our team tends toward adopting a more rigid approach to working on and helping contributors get better understanding of our community projects.
+In other to begin to understand the projects built within the Collabo Community, we recommend to first understand the Collabo Community, the problems the community seeks to solve through the projects built within it. Our [mission page](https://resources.collabo.community/p/314kRUBMGFgMhe/Learn-About-Collabo-Community) is a great place to start to get to know us, and understand the goals we plan towards achieving through our community and projects. Interacting with our community on Discord should also help to make things clearer. &#x20;
 
-Project details for some of our community projects are released incrementally to contributors, and subsequently to the public. For example: at the point where the community is working towards releasing version 1 of the project, contributors involved in building it may only have full project details up to version 1. The reason we now adopt this method is to prevent contributors from getting confused or overwhelmed with too much information, based on the nature of the projects and past experiences within our community.
+Here's the list of projects we are working on at Collabo Community. Find information and directions for each of our projects through the project page links below:
 
-In other to begin to understand the projects built within the Collabo Community, we recommend to first understand the Collabo Community, the problems the community seeks to solve through the projects built within it. Our [community resource documentation](https://resources.collabo.community) is a great place to start to get to know us, and understand the goals we plan towards achieving through our community and projects. Interacting with our community on Discord should also help to make things clearer.
+{% content-ref url="collabo-projects/blocks-assistant.md" %}
+[blocks-assistant.md](collabo-projects/blocks-assistant.md)
+{% endcontent-ref %}
 
-We usually structure documentation content in a way that doesn't force our documentation users to go through content irrelevant to them. In this case, we have added all project descriptions here in one place, to help us have a shared understanding of the projects. This standalone guide for our community projects should also help to see each of the projects from a product and/or user perspective. <mark style="background-color:yellow;">Find the</mark> <mark style="background-color:yellow;"></mark>_<mark style="background-color:yellow;">**description**</mark>_ <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">for each of our</mark> <mark style="background-color:yellow;"></mark>_<mark style="background-color:yellow;">**community projects**</mark>_ <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">and how you can</mark> <mark style="background-color:yellow;"></mark>_<mark style="background-color:yellow;">**contribute**</mark>_ <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">to any of them, through the</mark> <mark style="background-color:yellow;"></mark>_<mark style="background-color:yellow;">**sidebar**</mark>_ <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">of this documentation page.</mark> &#x20;
+{% content-ref url="collabo-projects/building-blocks.md" %}
+[building-blocks.md](collabo-projects/building-blocks.md)
+{% endcontent-ref %}
 
-You are welcome to contribute to any area that interests you from our project list. Or you can let us know through our community channels, what other thing(s) you have in mind to help out with if not on our project list yet.
+{% content-ref url="collabo-projects/collabocate.md" %}
+[collabocate.md](collabo-projects/collabocate.md)
+{% endcontent-ref %}
+
+{% content-ref url="collabo-projects/collabo-community-app.md" %}
+[collabo-community-app.md](collabo-projects/collabo-community-app.md)
+{% endcontent-ref %}
+
+{% content-ref url="collabo-projects/collabo-documentation.md" %}
+[collabo-documentation.md](collabo-projects/collabo-documentation.md)
+{% endcontent-ref %}
 
 ***

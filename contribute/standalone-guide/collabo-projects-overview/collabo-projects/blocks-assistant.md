@@ -1,12 +1,16 @@
 ---
-description: COLLABO COMMUNITY'S BUILDING BLOCKS PROJECT
+description: COLLABO COMMUNITY'S BLOCKS ASSISTANT PROJECT
 ---
 
-# Building Blocks
+# Blocks Assistant
 
 ***
 
-Building Blocks framework revolves around a thought process, as well as a collection of libraries, to help approach aspects of product development (i.e. code, documentation, UI/UX design etc.) in a well-defined, structured, easy to track, performant, and predictable manner. Our goal is that other persons or communities will also be able to use adopt it in their work soon.
+Blocks Assistant Command Line Interface (CLI) automates the usage of the Building Blocks framework in the apps or projects that we build within the Collabo Community. Our goal is that other persons or communities will also be able to use it to automate software development work soon. Blocks Assistant helps to:
+
+* Automate the integration of building blocks framework libraries into apps made from existing frameworks or technologies.
+* Keep track of building blocks dependencies.
+* Improve code debugging and performance for apps using building blocks.
 
 ***
 

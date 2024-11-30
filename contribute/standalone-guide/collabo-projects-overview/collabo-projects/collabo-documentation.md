@@ -1,14 +1,12 @@
 ---
-description: HIGH LEVEL OVERVIEW OF THE COLLABO DOCUMENTATION PROJECT
+description: COLLABO COMMUNITY'S DOCUMENTATION PROJECTS
 ---
 
 # Collabo Documentation
 
 ***
 
-## **Project Description**
-
-At Collabo Community, _**documentation**_ involves writing any of the following:&#x20;
+At Collabo Community, documentation involves writing any of the following:&#x20;
 
 * Instructions to help new and old community members (contributors or users) navigate through, and get the best out of the community.&#x20;
 * User instructions for where to find and how to use published Collabo Community projects/products.
@@ -18,18 +16,19 @@ At Collabo Community, _**documentation**_ involves writing any of the following:
 
 ***
 
-## Contribute to what interests you
+## Follow or join work progress on this project
 
-Contribute to ongoing efforts in any of the following areas below or let us know where or how else you would like to be involved:
+To follow or join work progress on this project, checkout our roadmap page below:
 
-* Technical writing and documentation
-* Non-technical writing and documentation
+{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/xIZH0fUjjRg4ErdE5WPj/" %}
+[Roadmap](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/xIZH0fUjjRg4ErdE5WPj/)
+{% endcontent-ref %}
 
 ***
 
-## Community Contributing Guide <a href="#community-contributing-guide" id="community-contributing-guide"></a>
+## Contribution workflow and guide <a href="#community-contributing-guide" id="community-contributing-guide"></a>
 
-Visit the contributing guide page below to get directions about what is important in Collabo Community, and also learn how to make quality contributions to Collabo Community.
+Checkout the contribution workflow for the aspect you are interested in contributing to from the page below:
 
 {% content-ref url="https://app.gitbook.com/s/XdbpF9uCzy0cC5JUJYyW/" %}
 [Contributing Guide: Home](https://app.gitbook.com/s/XdbpF9uCzy0cC5JUJYyW/)
