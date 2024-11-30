@@ -6,22 +6,10 @@ description: TECHNICAL & NON-TECHNICAL WRITING AND DOCUMENTATION CONTRIBUTION WO
 
 ***
 
-## Community Contributing Guide
-
-Visit the contributing guide page below to get directions about what is important in Collabo Community, and also learn how to make quality contributions to Collabo Community.
-
-{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/XdbpF9uCzy0cC5JUJYyW/" %}
-[Contributing Guide](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/XdbpF9uCzy0cC5JUJYyW/)
-{% endcontent-ref %}
-
-***
-
-## Finding projects to contribute to
-
-Find projects to contribute to and their descriptions, in the page attached below
+## General Information about projects
 
 {% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/D4inNwzMBU3WuBySeYcV/" %}
-[Collabo Projects: Overview](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/D4inNwzMBU3WuBySeYcV/)
+[Collabo Projects: Overview](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/D4inNwzMBU3WuBySeYcV/)
 {% endcontent-ref %}
 
 ***
@@ -60,7 +48,7 @@ _**Engineering workflow: Git branch name & technical writing**_
 If you are submitting via GitHub, use the naming convention for branch names from the Engineering contribution workflow. The Engineering workflow documentation is also helpful to finding project repos and local development setup, in the case of technical writing.
 
 {% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/uGDfGtsUTaBkuk5DjT56/" %}
-[Engineering](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/uGDfGtsUTaBkuk5DjT56/)
+[Engineering](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/uGDfGtsUTaBkuk5DjT56/)
 {% endcontent-ref %}
 
 ***
@@ -70,7 +58,7 @@ _**Edit and submit pull requests**_
 See the guidelines for submitting pull requests to any of our GitHub repositories in the page below.
 
 {% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/kz0h3jWUEnMa4Mjjkort/" %}
-[Pull Request Guidelines](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/kz0h3jWUEnMa4Mjjkort/)
+[Pull Request Guidelines](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/kz0h3jWUEnMa4Mjjkort/)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
