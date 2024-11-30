@@ -1,31 +1,25 @@
 ---
-description: UI/UX & GRAPHICS DESIGN CONTRIBUTION WORKFLOW
+description: COLLABO COMMUNITY'S UI/UX & GRAPHICS DESIGN CONTRIBUTION WORKFLOW
 ---
 
 # Contribution Workflow for UI/UX & Graphic Designers
 
 ***
 
-## Community Contributing Guide
-
-Visit the contributing guide page below to get directions about what is important in Collabo Community, and also learn how to make quality contributions to Collabo Community.
-
-{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/XdbpF9uCzy0cC5JUJYyW/" %}
-[Contributing Guide](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/XdbpF9uCzy0cC5JUJYyW/)
-{% endcontent-ref %}
-
-***
-
-## Finding projects to contribute to
-
-Find projects to contribute to and their descriptions, in the page attached below.
+## General Information about projects
 
 {% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/D4inNwzMBU3WuBySeYcV/" %}
-[Collabo Projects: Overview](https://app.gitbook.com/o/-MWSSST6\_GF5VEuG0Atd/s/D4inNwzMBU3WuBySeYcV/)
+[Collabo Projects: Overview](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/D4inNwzMBU3WuBySeYcV/)
 {% endcontent-ref %}
 
-***
+## Design workflow
 
-## **Accessing community design workspaces**
+{% hint style="warning" %}
+No standard contribution workflow yet for UI/UX and graphics design.
+{% endhint %}
 
-Reach out on our community discord server to join the discussions, and access the Figma design work space for the UI/UX design project that interests you.
+For now, you can simply:
+
+* Find an issue ticket to work on through our project board or our roadmap.
+* &#x20;Ask about any other thing in the design discussion channel for any project, in our discord community.
+
