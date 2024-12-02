@@ -14,8 +14,8 @@ Welcome to Collabo Community! So thrilled that you have made a decision to check
 
 In case you are wondering where to start from, here's a list of helpful resources and steps to take, as a first timer contributor to the Collabo Community:
 
-* **Step 1 - Start your contributor onboarding:** We'd like to assist you during your contributor journey. Find and fill the contributor onboarding form here: [google form link](https://docs.google.com/forms/d/e/1FAIpQLSdGT_IhXXLgmRY3Vxt6AnkMvC0YYmx8sIcuaYIHzvAHHXilxQ/viewform).
-* **Step 2 - Read up the Code of Conduct:** Ensure to check out the community rules at [docs.collabo.community/contribute/code-of-conduct](https://docs.collabo.community/contribute/code-of-conduct)
+* **Step 1 - Read up the Code of Conduct:** Ensure to check out the community rules at [docs.collabo.community/contribute/code-of-conduct](https://docs.collabo.community/contribute/code-of-conduct)
+* **Step 2 - Start your contributor onboarding:** We'd like to assist you during your contributor journey. Find and fill the contributor onboarding form here: [google form link](https://docs.google.com/forms/d/e/1FAIpQLSdGT_IhXXLgmRY3Vxt6AnkMvC0YYmx8sIcuaYIHzvAHHXilxQ/viewform).
 * **Step 3 - Read up the Contributing Guide:** Check out the contributing guide containing information and resources to make quality contributions: [docs.collabo.community/contribute](https://docs.collabo.community/contribute)
 
 ***
@@ -50,9 +50,9 @@ Access the project board links using GitHub web interface. GitHub mobile app doe
 
 ***
 
-## Checkout our roadmap for the year
+## Checkout community projects & roadmap for the year
 
-Feeling a bit more confident, and would like to solve more issue tickets? Check out our community roadmap. Join ongoing project contributions for the current quarter: [docs.collabo.community/roadmap](https://docs.collabo.community/roadmap)
+Feeling a bit more confident, and would like to solve more issue tickets? Learn more about our projects, and check out our community roadmap. Join ongoing project contributions for the current quarter: [https://docs.collabo.community/projects-overview](https://docs.collabo.community/projects-overview)
 
 ***
 
