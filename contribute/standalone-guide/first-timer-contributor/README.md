@@ -1,5 +1,6 @@
 ---
 icon: hand-wave
+description: START YOUR JOURNEY TO MAKING SOLID CONTRIBUTIONS TO OUR COMMUNITY
 ---
 
 # First timer contributor Guide - Collabo Community
@@ -20,39 +21,47 @@ In case you are wondering where to start from, here's a list of helpful resource
 
 ***
 
-## Partake in our contribution workflow training
+## Community project board: First timer perspective
 
 {% hint style="warning" %}
-Ignore this section about contribution working training, if your work does not involve submitting your work/solutions using git or GitHub.
+Youtube video coming soon
 {% endhint %}
+
+***
+
+## Git and GitHub workflow "good first issue" tickets <a href="#discussions-list" id="discussions-list"></a>
+
+Take on the "good first issue" tickets in the **git and GitHub contribution workflow training**. The content is basic, but it should give you an idea of what Collabo Community's contribution process looks like. A good number of our products are built around GitHub, so you will also get introduced to the basics of how our products make use of GitHub. This workflow training also serves the purpose of educating contributors new to collaborating with git and GitHub.
 
 {% hint style="info" %}
 Access project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
 {% endhint %}
 
-Contribution workflow training link: [https://github.com/orgs/collabo-community/projects/1?pane=issue\&itemId=76078529](https://github.com/orgs/collabo-community/projects/1?pane=issue\&itemId=76078529)
-
-We advise you to partake in and complete the contribution workflow training, if your contributions will involve working with or submitting solutions via **GitHub** and/or **git**. The content is basic, but it is to help give you an idea of what our git and GitHub workflow looks like. It also serves the purpose of educating contributors new to collaborating with git and GitHub.
+**Git and GitHub workflow:** [Go to git and GitHub workflow good first issue tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22For%3A+Community%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+git+%26+github+workflow%22)
 
 ***
 
-## Take on "good first issue" tickets from our board!
+## Take on role-specific "good first issue" tickets!
 
-Read up how to navigate through the project board, and get assigned to issue tickets here: [docs.collabo.community/project-board](https://docs.collabo.community/project-board). We advise you to start with easy to fix issue tickets, and then gradually work your way up to more complex tickets once you feel confident enough. You can access and pick easy to fix issue tickets on our project board through the links below:
+Nice work completing the git and GitHub workflow training. One more hurdle to cross! The "good first issue" tickets in the this section are designed to get you grounded in the basics you need, before you start contributing to Collabo Community projects. Check the links below to select the good first issue tickets, for the aspect you wish to contribute to.
 
 {% hint style="info" %}
 Access the project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
 {% endhint %}
 
-* **Engineering "good first issue" tickets**: [Filtered Engineering + good first issue + For: Community project board tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22topic%3A+good+first+issue%22+label%3A%22APD%3A+Software+Engineering%22+label%3A%22For%3A+Community%22)
-* **Technical and non-technical writing "good first issue" tickets:** [Filtered Technical & non-technical writing + good first issue + For: Community project board tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22topic%3A+good+first+issue%22+label%3A%22APD%3A+Technical+and+Non-technical+Writing%22+label%3A%22For%3A+Community%22)
-* **UI/UX and graphics design "good first issue" tickets:** [Filtered UI/UX & graphics design + good first issue + For: Community project board tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22topic%3A+good+first+issue%22+label%3A%22APD%3A+UI%2FUX+and+Graphics+design%22+label%3A%22For%3A+Community%22)
+* **Engineering:** [Go to engineering good first issue tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22APD%3A+Software+Engineering%22+label%3A%22For%3A+Community%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+project-basics%22)
+* **Technical writing:** [Go to technical writing good first issue tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22APD%3A+Docs+-+Technical+Writing%22+label%3A%22For%3A+Community%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+project-basics%22)
+* **Non-technical writing:** [Go to non-technical writing good first issue tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22APD%3A+Docs+-+Non-technical+Writing%22+label%3A%22For%3A+Community%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+project-basics%22)
+* **UI/UX design:** [Go to UI/UX design good first issue tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22APD%3A+UI%2FUX+and+Graphics+design%22+label%3A%22For%3A+Community%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+project-basics%22)
 
 ***
 
 ## Checkout community projects & roadmap for the year
 
-Feeling a bit more confident, and would like to solve more issue tickets? Learn more about our projects, and check out our community roadmap. Join ongoing project contributions for the current quarter: [https://docs.collabo.community/projects-overview](https://docs.collabo.community/projects-overview)
+Time to take on issue tickets that contain the real-world problems that our community seeks to solve, through the products that we build! Feel free to explore the project board through:
+
+* The community project board (detailed guide): [docs.collabo.community/project-board](https://docs.collabo.community/project-board)
+* Our product roadmap: [docs.collabo.community/roadmap](https://docs.collabo.community/roadmap)
 
 ***
 
