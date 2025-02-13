@@ -23,11 +23,9 @@ In case you are wondering where to start from, here's a list of helpful resource
 
 ## Community project board: First timer perspective
 
-{% embed url="https://youtu.be/J-hhB6lINpE?si=BbQnmnpC7xWt5-ex" %}
+{% embed url="https://youtu.be/ZC5XrQFV4Nc" %}
 Video: Find good first issue tickets through our project board
 {% endembed %}
-
-
 
 ***
 
