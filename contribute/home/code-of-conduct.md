@@ -144,7 +144,7 @@ This is a sensitive topic
 * No posting or displaying sexually explicit or violent material.
 * No unwelcome sexual attention.
 * Sustained disruption of community events, including talks and presentations is not allowed.
-* Advocating for, or encouraging, any unacceptable or wanted behaviour will not be tolerated.
+* Advocating for, or encouraging, any unacceptable or unwanted behaviour will not be tolerated.
 * Purposely making harmful or false claims about a person will not be tolerated.
 * Aiding and abetting someone to break any of the community rules is the same as breaking that rule yourself.
 * Supporting unacceptable or unwanted behaviour through use of text, emojis, voice notes or any other means, is the same as exhibiting the unacceptable behaviour yourself.
