@@ -1,13 +1,13 @@
 ---
-icon: hand-wave
 description: START YOUR JOURNEY TO MAKING SOLID CONTRIBUTIONS TO OUR COMMUNITY
+icon: hand-wave
 ---
 
-# First timer contributor Guide - Collabo Community
+# First timer contributor Guide - Collabocate's Collabo Community
 
 ***
 
-Welcome to Collabo Community! So thrilled that you have made a decision to check out our community and contribute to our projects. This very special guide is to help you quickly get started with contributing to Collabo Community projects.
+Welcome to Collabocate's Collabo Community! So thrilled that you have made a decision to check out our community and contribute to our projects. This very special guide is to help you quickly get started with contributing to Collabo Community projects.
 
 ***
 
@@ -37,7 +37,7 @@ Take on the "good first issue" tickets in the **git and GitHub contribution work
 Access project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
 {% endhint %}
 
-**Git and GitHub workflow:** [Go to git and GitHub workflow good first issue tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22For%3A+Community%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+git+%26+github+workflow%22)
+**Git and GitHub workflow:** [Go to git and GitHub workflow good first issue tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22For%3A+Community+%5BGeneral%5D%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+git+%26+github+workflow%22)
 
 ***
 
@@ -49,23 +49,17 @@ Nice work completing the git and GitHub workflow training. One more hurdle to cr
 Access the project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
 {% endhint %}
 
-* **Engineering:** [Go to engineering good first issue tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22APD%3A+Software+Engineering%22+label%3A%22For%3A+Community%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+project-basics%22)
-* **Technical writing:** [Go to technical writing good first issue tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22APD%3A+Docs+-+Technical+Writing%22+label%3A%22For%3A+Community%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+project-basics%22)
-* **Non-technical writing:** [Go to non-technical writing good first issue tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22APD%3A+Docs+-+Non-technical+Writing%22+label%3A%22For%3A+Community%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+project-basics%22)
-* **UI/UX design:** [Go to UI/UX design good first issue tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22APD%3A+UI%2FUX+and+Graphics+design%22+label%3A%22For%3A+Community%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+project-basics%22)
+**Role-specific project basics:** [Go to role-specific project basics tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22For%3A+Community+%5BGeneral%5D%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+project-basics%22)
 
 ***
 
 ## Checkout community projects & roadmap for the year
 
-Time to take on issue tickets that contain the real-world problems that our community seeks to solve, through the products that we build! Feel free to explore the project board through:
-
-* The community project board (detailed guide): [docs.collabo.community/project-board](https://docs.collabo.community/project-board)
-* Our product roadmap: [docs.collabo.community/roadmap](https://docs.collabo.community/roadmap)
+Time to take on issue tickets that contain the real-world problems that our community seeks to solve, through the products that we build! Feel free to explore our community project board: [docs.collabo.community/project-board](https://docs.collabo.community/project-board)
 
 ***
 
-## Public Collabo Community Documentation Resources
+## Our Community's Public Documentation Resources
 
 Find more resources to help you with your contribution journey here, ask us any questions in our discord community: [resources.collabo.community](https://resources.collabo.community)
 
