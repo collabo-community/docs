@@ -1,5 +1,5 @@
 ---
-description: COLLABO COMMUNITY'S ENGINEERING CONTRIBUTION WORKFLOW
+description: COLLABOCATE'S COLLABO COMMUNITY'S ENGINEERING CONTRIBUTION WORKFLOW
 ---
 
 # Contribution Workflow for Engineers
@@ -8,7 +8,7 @@ description: COLLABO COMMUNITY'S ENGINEERING CONTRIBUTION WORKFLOW
 
 ## Git workflow: Fork and Clone repository
 
-**Step 1:** Head over to the the _**repository URL**_ i.e. (the Collabo Community's) GitHub repository for that project.
+**Step 1:** Head over to the the _**repository URL**_ i.e. the GitHub repository for that project.
 
 {% hint style="warning" %}
 Get the _**repository URL**_ link to the GitHub repository for a project from _**Project local development instructions**_, through the sidebar.&#x20;
@@ -22,7 +22,7 @@ Get the _**repository URL**_ link to the GitHub repository for a project from _*
 git clone https://github.com/your-github-user-name-here-instead/the-repo-name.git
 ```
 
-* **SSH url option:** [See GitHub documentation for SSH configuration](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) incase you wish to be able to work with SSH url for git operations (that is, if you have not set it up before). If you are using `SSH` _**clone url**_, the clone command with your url will look like this: git@github.com:
+* **SSH url option:** [See GitHub documentation for SSH configuration](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) incase you wish to be able to work with SSH url for git operations (that is, if you have not set it up before). If you are using `SSH` _**clone url**_, the clone command with your url will look like this:
 
 ```
 git clone git@github.com:your-github-user-name-here-instead/the-repo-name.git
@@ -32,7 +32,7 @@ git clone git@github.com:your-github-user-name-here-instead/the-repo-name.git
 You can get the url to clone the project with, through the green code button in the repository on Github as shown below in the screenshot.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/Screenshot 2023-11-13 at 01.39.27 (1).png" alt=""><figcaption><p>Position of the Green Code button and the popup to copy URL on GitHub</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Position of the Green Code button and the popup to copy clone URL on GitHub</p></figcaption></figure>
 
 ***
 
