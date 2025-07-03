@@ -1,5 +1,7 @@
 ---
-description: TECHNICAL & NON-TECHNICAL WRITING AND DOCUMENTATION CONTRIBUTION WORKFLOW
+description: >-
+  COLLABOCATE'S COLLABO COMMUNITY TECHNICAL & NON-TECHNICAL WRITING AND
+  DOCUMENTATION CONTRIBUTION WORKFLOW
 ---
 
 # Contribution Workflow for Writers \[Technical & Non-Technical]
@@ -39,7 +41,7 @@ _**GitHub repository for documentation projects**_
 
 Our GitBook community and project docs are synced to one GitHub repository, so that you can find them and edit them on GitHub too.
 
-GitHub repository link: [https://github.com/collabo-community/docs](https://github.com/collabo-community/docs)
+GitHub repository link: [https://github.com/collabocate-osc/docs](https://github.com/collabocate-osc/docs)
 
 ***
 
