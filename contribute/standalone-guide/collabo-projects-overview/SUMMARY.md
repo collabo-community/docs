@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Projects Documentation: Collabo Community](README.md)
+* [Projects Documentation: Collabocate's Collabo Community](README.md)
 * [Collabo Community on Discord](https://resources.collabo.community)
 
 ## COLLABO PROJECTS
