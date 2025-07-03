@@ -13,7 +13,7 @@ Welcome to Collabocate's Collabo Community! So thrilled that you have made a dec
 
 ## Where do I start from?
 
-In case you are wondering where to start from, here's a list of helpful resources and steps to take, as a first timer contributor to the Collabocate's Collabo Community:
+In case you are wondering where to start from, here's a list of helpful resources and steps to take, as a first timer contributor to Collabocate's Collabo Community:
 
 * **Step 1 - Read up the Code of Conduct:** Ensure to check out the community rules at [docs.collabo.community/contribute/code-of-conduct](https://docs.collabo.community/contribute/code-of-conduct)
 * **Step 2 - Start your contributor onboarding:** We'd like to assist you during your contributor journey. Find and fill the contributor onboarding form here: [google form link](https://docs.google.com/forms/d/e/1FAIpQLSdGT_IhXXLgmRY3Vxt6AnkMvC0YYmx8sIcuaYIHzvAHHXilxQ/viewform).
