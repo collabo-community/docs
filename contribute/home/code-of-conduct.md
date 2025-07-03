@@ -1,20 +1,20 @@
 ---
-description: THE COLLABO COMMUNITY CODE OF CONDUCT
+description: COLLABOCATE'S COLLABO COMMUNITY CODE OF CONDUCT
 ---
 
 # 📔 Code of Conduct
 
 ***
 
-_The Collabo Community Code of Conduct is derived, by combining the_ [_Citizen Code of Conduct_](https://github.com/collabo-community/docs/community/code-of-conduct/new?template=citizen-code-of-conduct) _and the_ [Contributor Covenant Code of Conduct](https://github.com/collabo-community/docs/community/code-of-conduct/new?template=contributor-covenant) _templates provided by GitHub, with our observations about how contributors have interacted with and/or conducted themselves in our own community over time. Our community Code of Conduct will therefore continue to evolve as and when needed._
+_Collabocate's Collabo Community Code of Conduct is derived, by combining the_ [_Citizen Code of Conduct_](https://github.com/collabocate-osc/docs/community/code-of-conduct/new?template=citizen-code-of-conduct) _and the_ [Contributor Covenant Code of Conduct](https://github.com/collabocate-osc/docs/community/code-of-conduct/new?template=contributor-covenant) _templates provided by GitHub, with our observations about how contributors have interacted with and/or conducted themselves in our own community over time. Our community Code of Conduct will therefore continue to evolve as and when needed._
 
 ***
 
 ## Introduction: our CoC's purpose
 
-A primary goal of **Collabo Community** is to be inclusive; we understand that our contributors may come from varied and diverse backgrounds. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of **Collabocate's Collabo Community** is to be inclusive; we understand that our contributors may come from varied and diverse backgrounds. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-We invite all those who participate in **Collabo Community** to help us create safe and positive experiences for everyone; and to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\
+We invite all those who participate in **Collabocate's Collabo Community** to help us create safe and positive experiences for everyone; and to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\
 \
 This code of conduct outlines our expectations for all those who participate in or contribute to our community, as well as the consequences for unacceptable behaviour.
 
@@ -34,8 +34,8 @@ You will see a "This is a sensitive topic" hint on a \[CoC] section, if it is ab
 
 ## \[CoC] Section 1: Discussion channels, spaces and DMs
 
-* Only discuss Collabo Community projects (or related project matters) in the project discussion chat, channels or spaces.
-* In general, use Collabo Community discussion channels or spaces for Collabo Community related conversations only.
+* Only discuss Collabocate's Collabo Community projects (or related project matters) in the project discussion chat, channels or spaces.
+* In general, use Collabocate's Collabo Community discussion channels or spaces for Collabocate's Collabo Community related conversations only.
 * Respect people, their beliefs and/or orientations even in DMs (i.e. Direct Messages).
 * Avoid disclosing your personal information or that of other people, on any group discussion chat, channels or spaces.
 
@@ -43,10 +43,10 @@ You will see a "This is a sensitive topic" hint on a \[CoC] section, if it is ab
 
 ## \[CoC] Section 2: Community members' project choice and questions
 
-* You cannot mock anyone for the kind of projects they choose to or choose not to participate in within the Collabo Community.
+* You cannot mock anyone for the kind of projects they choose to or choose not to participate in within Collabocate's Collabo Community.
 * You cannot mock anyone for or discourage anyone from asking questions about community projects or task assignments.
 
-**For more context:** Here at Collabo Community, there is nothing like foolish or stupid question. We encourage everyone to ask any question they have about Collabo Community, projects and the task assignments that they are working on. Even if you feel that what someone is asking or working on is too simple, we prefer you to help unblock them.
+**For more context:** There is nothing like foolish or stupid question in Collabocate's Collabo Community. We encourage everyone to ask any question they have about Collabocate's Collabo Community, projects and the task assignments that they are working on. Even if you feel that what someone is asking or working on is too simple, we prefer you to help unblock them.
 
 ***
 
@@ -196,7 +196,7 @@ Whether they are related to sensitive topics or not, community maintainers will 
 
 ### \[4 of 5] Unwanted behaviour exhibited does not have a \[CoC] section
 
-We have tried to make our CoC cover a very broad scope. In the case the behaviour exhibited is determined as unwanted according to Collabo Community standards/values, and does not have a uniquely identifiable \[CoC] section to make reference to in other to determine what the disciplinary action will be:
+We have tried to make our CoC cover a very broad scope. In the case the behaviour exhibited is determined as unwanted according to Collabocate's Collabo Community standards/values, and does not have a uniquely identifiable \[CoC] section to make reference to in other to determine what the disciplinary action will be:
 
 * An existing \[CoC] section that has related topic/concept will be used at that point. If none is found to be related, community maintainers will deliberate on what disciplinary action is fair to implement based on the current disciplinary actions that we have on ground.
 * If or as needed, we will update the CoC so that this newly exhibited unwanted behaviour is properly documented.
