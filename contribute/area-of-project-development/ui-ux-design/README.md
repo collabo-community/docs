@@ -1,5 +1,5 @@
 ---
-description: COLLABOCATE'S COLLABO COMMUNITY UI/UX & GRAPHICS DESIGN CONTRIBUTION WORKFLOW
+description: COLLABOCATE'S COLLABO COMMUNITY UI/UX & GRAPHIC DESIGN CONTRIBUTION WORKFLOW
 ---
 
 # Contribution Workflow for UI/UX & Graphic Designers
@@ -15,7 +15,7 @@ description: COLLABOCATE'S COLLABO COMMUNITY UI/UX & GRAPHICS DESIGN CONTRIBUTIO
 ## Design workflow
 
 {% hint style="warning" %}
-No standard contribution workflow yet for UI/UX and graphics design.
+No standard contribution workflow yet for UI/UX and graphic design.
 {% endhint %}
 
 For now, you can simply:
