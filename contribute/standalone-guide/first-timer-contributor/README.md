@@ -7,13 +7,13 @@ icon: hand-wave
 
 ***
 
-Welcome to Collabocate's Collabo Community! So thrilled that you have made a decision to check out our community and contribute to our projects. This very special guide is to help you quickly get started with contributing to Collabo Community projects.
+Welcome to Collabocate's Collabo Community! So thrilled that you have made a decision to check out our community and contribute to our projects. This very special guide is to help you quickly get started with contributing to our community projects.
 
 ***
 
 ## Where do I start from?
 
-In case you are wondering where to start from, here's a list of helpful resources and steps to take, as a first timer contributor to the Collabo Community:
+In case you are wondering where to start from, here's a list of helpful resources and steps to take, as a first timer contributor to the Collabocate's Collabo Community:
 
 * **Step 1 - Read up the Code of Conduct:** Ensure to check out the community rules at [docs.collabo.community/contribute/code-of-conduct](https://docs.collabo.community/contribute/code-of-conduct)
 * **Step 2 - Start your contributor onboarding:** We'd like to assist you during your contributor journey. Find and fill the contributor onboarding form here: [google form link](https://docs.google.com/forms/d/e/1FAIpQLSdGT_IhXXLgmRY3Vxt6AnkMvC0YYmx8sIcuaYIHzvAHHXilxQ/viewform).
@@ -37,7 +37,7 @@ Take on the "good first issue" tickets in the **git and GitHub contribution work
 Access project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
 {% endhint %}
 
-**Git and GitHub workflow:** [Go to git and GitHub workflow good first issue tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22For%3A+Community+%5BGeneral%5D%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+git+%26+github+workflow%22)
+**Git and GitHub workflow:** [Go to git and GitHub workflow good first issue tickets](https://github.com/orgs/collabocate-osc/projects/1?filterQuery=label%3A%22For%3A+Community+%5BGeneral%5D%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+git+%26+github+workflow%22)
 
 ***
 
@@ -49,7 +49,7 @@ Nice work completing the git and GitHub workflow training. One more hurdle to cr
 Access the project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
 {% endhint %}
 
-**Role-specific project basics:** [Go to role-specific project basics tickets](https://github.com/orgs/collabo-community/projects/1?filterQuery=label%3A%22For%3A+Community+%5BGeneral%5D%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+project-basics%22)
+**Role-specific project basics:** [Go to role-specific project basics tickets](https://github.com/orgs/collabocate-osc/projects/1?filterQuery=label%3A%22For%3A+Community+%5BGeneral%5D%22+label%3A%22topic%3A+good+first+issue%22+label%3A%22topic%3A+project-basics%22)
 
 ***
 
