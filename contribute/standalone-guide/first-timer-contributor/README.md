@@ -31,7 +31,7 @@ Video: Find good first issue tickets through our project board
 
 ## Git and GitHub workflow "good first issue" tickets <a href="#discussions-list" id="discussions-list"></a>
 
-Take on the "good first issue" tickets in the **git and GitHub contribution workflow training**. The content is basic, but it should give you an idea of what Collabo Community's contribution process looks like. A good number of our products are built around GitHub, so you will also get introduced to the basics of how our products make use of GitHub. This workflow training also serves the purpose of educating contributors new to collaborating with git and GitHub.
+Take on the "good first issue" tickets in the **git and GitHub contribution workflow training**. The content is basic, but it should give you an idea of what our community's contribution process looks like. A good number of our products are built around GitHub, so you will also get introduced to the basics of how our products make use of GitHub. This workflow training also serves the purpose of educating contributors new to collaborating with git and GitHub.
 
 {% hint style="info" %}
 Access project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
@@ -43,7 +43,7 @@ Access project board links using GitHub web interface. GitHub mobile app does no
 
 ## Take on role-specific "good first issue" tickets!
 
-Nice work completing the git and GitHub workflow training. One more hurdle to cross! The "good first issue" tickets in the this section are designed to get you grounded in the basics you need, before you start contributing to Collabo Community projects. Check the links below to select the good first issue tickets, for the aspect you wish to contribute to.
+Nice work completing the git and GitHub workflow training. One more hurdle to cross! The "good first issue" tickets in the this section are designed to get you grounded in the basics you need, before you start contributing to our community projects. Check the links below to select the good first issue tickets, for the aspect you wish to contribute to.
 
 {% hint style="info" %}
 Access the project board links using GitHub web interface. GitHub mobile app does not yet support project board at the moment.
