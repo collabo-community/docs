@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Roadmap: Collabo Community](README.md)
+* [Roadmap: Collabocate's Collabo Community](README.md)
 * [Resource Documentation](https://resources.collabo.community)
 
 ## PAST YEARS
