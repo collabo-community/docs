@@ -1,4 +1,4 @@
-# Pull Requests: Submitting pull requests to any repository in Collabocate's Collabo Community
+# Pull Requests: Submitting pull requests for Collabocate project GitHub repositories
 
 ***
 
@@ -40,7 +40,7 @@ If you are not able to access the dropdown to request review as shown in the scr
 
 ## What qualifies as "ready for review"?
 
-Avoid overwhelming maintainers with unnecessary GitHub notifications. Thoroughly check that you have fulfilled the requirements of the issue ticket you are submitting a pull request for, before tagging maintainers on your pull request. If your pull request is not yet complete and you need guidance on how to go about anything, preferably, discuss the matter in our collabo community's discord channels.
+Avoid overwhelming maintainers with unnecessary GitHub notifications. Thoroughly check that you have fulfilled the requirements of the issue ticket you are submitting a pull request for, before tagging maintainers to review your pull request. If your pull request is not yet complete and you need guidance on how to go about anything, preferably, discuss the matter in our collabo community's discord channels.
 
 ***
 
