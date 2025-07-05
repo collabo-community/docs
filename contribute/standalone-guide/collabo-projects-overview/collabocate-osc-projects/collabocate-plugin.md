@@ -1,12 +1,20 @@
 ---
-description: THE COLLABO COMMUNITY APP PROJECT
+description: COLLABOCATE PLUGIN PROJECT
 ---
 
-# Collabo Community App
+# Collabocate \[Plugin]
 
 ***
 
-The Collabo Community App serves to promote the Collabo Community and create improved interactions with our community and projects; based on the unique ideas, workflows and standards we are developing at Collabo Community.
+Collabocate Plugin is a set of integrable applications to help users, contributors and maintainers of projects be in constant communication and in sync. Collabocate Plugin achieves this through a combination of the GitHub REST API and the Collabocate backend REST API. Our goal is that other persons or communities will also be able to use adopt integrating it in the applications they are developing soon.
+
+***
+
+## User documentation
+
+{% hint style="warning" %}
+User documentation for this project is not yet available. Version 1.0.0 development in progress. User documentation will be added once released.
+{% endhint %}
 
 ***
 

@@ -1,14 +1,12 @@
 ---
-description: >-
-  WHERE TO FIND INFORMATION & DIRECTIONS ABOUT COLLABOCATE'S COLLABO COMMUNITY
-  PROJECTS
+description: INFORMATION & DIRECTIONS ABOUT COLLABOCATE PROJECTS YOU CAN CONTRIBUTE TO
 ---
 
 # Projects Documentation: Collabocate's Collabo Community
 
 ***
 
-_Projects built within Collabocate's Collabo Community are not (entirely) new. Like most other open source communities or individual projects, we are involved in building web and mobile applications, libraries (and frameworks) etc. The only difference is that based on our collective experiences, our own community introduces them in a new light and from a very different perspective than what a lot of techies are used to._
+_Collabocate's Collabo Community (i.e. Collabocate OSC) is how Collabocate welcomes and encourages open-source contributions to some of its projects. These projects are not (entirely) new. Like most other open source communities or individual projects, our collabo community is involved in building web and mobile applications, libraries (and frameworks) etc. The only difference is that based on our collective experiences, our own community introduces them in a new light and from a very different perspective than what a lot of techies are used to._
 
 ***
 
@@ -16,28 +14,28 @@ _Projects built within Collabocate's Collabo Community are not (entirely) new. L
 
 ***
 
-In other to begin to understand the projects built within Collabocate's Collabo Community, we recommend to first understand Collabocate's Collabo Community, the problems the community seeks to solve through the projects built within it. Our [mission page](https://resources.collabo.community/p/314kRUBMGFgMhe/Learn-About-Collabo-Community) is a great place to start to get to know us, and understand the goals we plan towards achieving through our community and projects. Interacting with our community on Discord should also help to make things clearer. &#x20;
+In other to begin to understand the Collabocate projects (or parts of the Collabocate projects) made available through our collabo community, we recommend to first understand Collabocate's Collabo Community, the problems the community seeks to solve through the projects listed. Our [collabo community mission page](https://resources.collabo.community/p/314kRUBMGFgMhe/Learn-About-Collabo-Community) is a great place to start to get to know us, and understand the goals we plan towards achieving through our collabo community and projects. Interacting with our collabo community on Discord should also help to make things clearer.
 
-Here's the list of projects we are working on at Collabocate's Collabo Community. Find information and directions for each of our projects through the project page links below:
+Here's the list of Collabocate projects that accepts open source contributions. Find information and directions for each of the projects through the project page links below:
 
-{% content-ref url="collabo-projects/blocks-assistant.md" %}
-[blocks-assistant.md](collabo-projects/blocks-assistant.md)
+{% content-ref url="collabocate-osc-projects/build-in-blocks-framework.md" %}
+[build-in-blocks-framework.md](collabocate-osc-projects/build-in-blocks-framework.md)
 {% endcontent-ref %}
 
-{% content-ref url="collabo-projects/building-blocks.md" %}
-[building-blocks.md](collabo-projects/building-blocks.md)
+{% content-ref url="collabocate-osc-projects/build-in-blocks-assistant.md" %}
+[build-in-blocks-assistant.md](collabocate-osc-projects/build-in-blocks-assistant.md)
 {% endcontent-ref %}
 
-{% content-ref url="collabo-projects/collabocate.md" %}
-[collabocate.md](collabo-projects/collabocate.md)
+{% content-ref url="collabocate-osc-projects/collabocate-plugin.md" %}
+[collabocate-plugin.md](collabocate-osc-projects/collabocate-plugin.md)
 {% endcontent-ref %}
 
-{% content-ref url="collabo-projects/collabo-community-app.md" %}
-[collabo-community-app.md](collabo-projects/collabo-community-app.md)
+{% content-ref url="collabocate-osc-projects/collabocate-website.md" %}
+[collabocate-website.md](collabocate-osc-projects/collabocate-website.md)
 {% endcontent-ref %}
 
-{% content-ref url="collabo-projects/collabo-documentation.md" %}
-[collabo-documentation.md](collabo-projects/collabo-documentation.md)
+{% content-ref url="collabocate-osc-projects/collabocate-osc-documentation.md" %}
+[collabocate-osc-documentation.md](collabocate-osc-projects/collabocate-osc-documentation.md)
 {% endcontent-ref %}
 
 ***

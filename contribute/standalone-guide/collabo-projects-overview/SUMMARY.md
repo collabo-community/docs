@@ -3,12 +3,11 @@
 * [Projects Documentation: Collabocate's Collabo Community](README.md)
 * [Collabo Community on Discord](https://resources.collabo.community)
 
-## COLLABO PROJECTS
+## COLLABOCATE OSC PROJECTS
 
-* [Blocks Assistant](collabo-projects/blocks-assistant.md)
-* [Building Blocks](collabo-projects/building-blocks.md)
-* [Collabocate](collabo-projects/collabocate.md)
-* [Collabo Community App](collabo-projects/collabo-community-app.md)
-* [Collabo Documentation](collabo-projects/collabo-documentation.md)
-* [Internal Projects](collabo-projects/internal-projects.md)
-* [Submit Blog Posts](https://docs.collabo.community/submit-blog-post-guidelines)
+* [Build in Blocks \[Framework\]](collabocate-osc-projects/build-in-blocks-framework.md)
+* [Build in Blocks \[Assistant\]](collabocate-osc-projects/build-in-blocks-assistant.md)
+* [Collabocate \[Plugin\]](collabocate-osc-projects/collabocate-plugin.md)
+* [Collabocate \[Website\]](collabocate-osc-projects/collabocate-website.md)
+* [Collabocate OSC Documentation](collabocate-osc-projects/collabocate-osc-documentation.md)
+* [Internal Projects](collabocate-osc-projects/internal-projects.md)

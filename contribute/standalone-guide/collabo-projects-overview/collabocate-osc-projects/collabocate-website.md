@@ -1,20 +1,12 @@
 ---
-description: COLLABO COMMUNITY'S COLLABOCATE PROJECT
+description: COLLABOCATE WEBSITE PROJECT
 ---
 
-# Collabocate
+# Collabocate \[Website]
 
 ***
 
-Collabocate (Collabo~~rate~~ + ~~Communi~~cate) is a set of integrable applications to help users, contributors and maintainers of projects be in constant communication and in sync. Collabocate achieves this through a combination of the GitHub REST API and Collabo Community backend REST API. Our goal is that other persons or communities will also be able to use adopt integrating it in the applications they are developing soon.
-
-***
-
-## User documentation
-
-{% hint style="warning" %}
-User documentation for this project is not yet available. Version 1.0.0 development in progress. User documentation will be added once released.
-{% endhint %}
+The Collabocate Website serves to promote the work done at Collabocate and its collabo community, and create improved interactions with our community and projects; based on the unique ideas, workflows and standards we are developing. It also gives collabocate product users the platform to choose and manage the Collabocate product that serves their purpose.
 
 ***
 
