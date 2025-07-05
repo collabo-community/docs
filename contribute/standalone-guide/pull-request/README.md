@@ -1,14 +1,14 @@
-# Pull Requests: Submitting pull requests to any repository in Collabo Community
+# Pull Requests: Submitting pull requests to any repository in Collabocate's Collabo Community
 
 ***
 
 {% hint style="info" %}
-Try to submit a pull request for an issue within 2 days of showing interest, even if you are not through fixing the issue, so that the associated issue ticket doesn't get reassigned to another contributor. Seeing some form of activity about it frequently (either on the issue ticket/pull request  or in our community channels) will help the community know you are actively working on it.
+Try to submit a pull request for an issue within 2 days of showing interest, even if you are not through fixing the issue, so that the associated issue ticket doesn't get reassigned to another contributor. Seeing some form of activity about it frequently (either on the issue ticket/pull request or in our collabo community channels) will help the community know you are actively working on it.
 {% endhint %}
 
 ***
 
-## PR 101: How to submit pull requests that make the work of reviewers and repository maintainers less complicated
+## PR 101: How to submit pull requests, that make the work of reviewers and repository maintainers less complicated
 
 * <mark style="background-color:yellow;">Do not submit a pull request for an issue ticket you are not assigned to. It will be counted as spam.</mark>\
   &#xNAN;_**Reason:** We want to be clear about who is working on what, and we want to avoid more than one person working on the same issue ticket without knowing it._
@@ -22,50 +22,30 @@ Try to submit a pull request for an issue within 2 days of showing interest, eve
   &#xNAN;_**Reason:** Reviewers will not have to deal with anything apart from what is in the issue ticket associated with the pull request. Reviewers can therefore focus, be thorough and do it with little or no fatigue. It is possible that more than one contributors are working on the same specific file(s) you are working on. Help make it easier for maintainers to merge these possibly conflicting changes from different contributors successfully, without "merging away" things we need by mistake. Also, If we discover that some pull request fix is later problematic after we have merged it in, we may need to revert (i.e. remove) the affected pull request fix. If changes for some other different issue are done in the same fix, this means we'll be removing all of them instead of just that one cause - which is what we don't want. Making reference to pull requests that contain more than the changes asked in the future is also problematic._
 * <mark style="background-color:yellow;">Do not request review from an individual person when you want to request for review on your pull request (once you are done and you feel that your pull request is ready for review). Instead, request review from a review team.</mark>\
   &#xNAN;_**Reason:** The review teams are created so that more than one persons can receive notifications to review your pull request. If one person is not around to review, some other reviewer can take it up. At the same time, you don't have to worry about who to tag or request review from, even if the maintainers of the project change._\
-  &#xNAN;_<mark style="background-color:yellow;">**Extra note:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">This does not mean that persons who are not on the review teams cannot review a pull request.</mark>_
+  &#xNAN;_<mark style="background-color:yellow;">**Extra note:**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">This does not mean that persons who are not on the review teams cannot review a pull request. If you are helping to review pull requests, please do so in accordance with this pull request guideline and our contribution workflow documentation.</mark>_
 
 ***
 
-## What are the review teams, and which review team to request review from for the project you are contributing to?
+## Requesting for review on your pull request
 
-Review teams are the way we assign the responsibility to people within our community to review pull requests that come in from contributors, based on their area of interest(s) or expertise. The people in these review teams are also contributors themselves.
-
-The list of review teams can be found at: [https://github.com/orgs/collabo-community/teams](https://github.com/orgs/collabo-community/teams)
-
-Brief description of the review teams:
-
-* `collabo-community/review-docs` team review documentation related GitHub pull requests.
-* `collabo-community/review-web-client` team reviews GitHub pull requests that are frontend web related.
-* `collabo-community/review-mobile-client` team reviews Github pull requests that are mobile app client related.
-* `collabo-community/review-backend` team reviews Github pull requests for backend-only solutions.
-* `collabo-community/review-fullstack` team reviews Github pull requests that are fullstack (i.e. frontend + backend) in nature.
-* `collabo-community/review-cli` team reviews Github pull requests for CLI projects.
-* `collabo-community/review-library` team reviews Github pull requests for the libraries we build.
-
-{% hint style="info" %}
-Even if more review teams are added or they change in the future, we follow a stable and predictable pattern for naming the review teams.
-
-Review teams can be easily identified, as _**review-**_ is present in the team name.
-{% endhint %}
-
-***
-
-## How to request review from a review team on your pull request
-
-After submitting your pull request, and anytime you feel your pull request is ready for reviewers to take a look, go to the reviewers dropdown there in your pull request. Then select a review team from the drop down list. You will only find one review team on the list, so just select that one.
-
-For example, in the screenshot below, the contributor is selecting the `collabo-community/review-docs` review team because they are submitting the pull request to the documentation repository.
+After submitting your pull request, and once your pull request is ready for reviewers to take a look, go to the reviewers dropdown there in your pull request. Then select **`@collabocate-osc/maintainers`** from the drop down list.
 
 {% hint style="warning" %}
-If you are not able to access the dropdown to request review as shown in the screenshot below, just add a comment on the pull request tagging the correct review team. Example comment: "Pull request ready for review **@collabo-community/review-docs**".
+If you are not able to access the dropdown to request review as shown in the screenshot below, just add a new comment on the pull request to tag community maintainers. Example comment: "Pull request ready for review **@collabocate-osc/maintainers**".
 {% endhint %}
 
-<figure><img src=".gitbook/assets/Screenshot 2024-04-06 at 18.34.48.png" alt=""><figcaption><p>Selecting a review team from the reviewer dropdown on your pull request</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-07-05 at 02.12.19.png" alt=""><figcaption><p>Selecting maintainer tag from the reviewer dropdown on your pull request</p></figcaption></figure>
+
+***
+
+## What qualifies as "ready for review"?
+
+Avoid overwhelming maintainers with unnecessary GitHub notifications. Thoroughly check that you have fulfilled the requirements of the issue ticket you are submitting a pull request for, before tagging maintainers on your pull request. If your pull request is not yet complete and you need guidance on how to go about anything, preferably, discuss the matter in our collabo community's discord channels.
 
 ***
 
 {% hint style="info" %}
-Feel free to ask questions in the community channels, if you are not clear about anything written on this page.
+Feel free to ask questions in our collabo community channels, if you are not clear about anything written on this page.
 {% endhint %}
 
 ***
