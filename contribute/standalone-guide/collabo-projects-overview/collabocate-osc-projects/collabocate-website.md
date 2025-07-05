@@ -10,6 +10,14 @@ The Collabocate Website serves to promote the work done at Collabocate and its c
 
 ***
 
+## Website Link
+
+{% hint style="warning" %}
+The website link is not yet available. Version 1.0.0 development in progress. The website link will be added once released.
+{% endhint %}
+
+***
+
 ## Follow or join work progress on this project
 
 To follow or join work progress on this project, checkout our roadmap page below:
