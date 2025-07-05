@@ -1,20 +1,24 @@
 ---
-description: SOFTWARE ENGINEERING CONTRIBUTING DOC FOR BLOCKS ASSISTANT
+description: SOFTWARE ENGINEERING CONTRIBUTING DOC FOR BUILD IN BLOCKS ASSISTANT
 ---
 
-# Blocks Assistant (Javascript)
+# Build in Blocks \[Assistant]
 
 ***
 
 ## General Information about project
 
-{% content-ref url="https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/blocks-assistant" %}
-[Blocks Assistant](https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/blocks-assistant)
+{% content-ref url="https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabocate-osc-projects/build-in-blocks-assistant" %}
+[Build in Blocks \[Assistant\]](https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabocate-osc-projects/build-in-blocks-assistant)
 {% endcontent-ref %}
 
 ***
 
 ## Local development instructions
+
+{% hint style="warning" %}
+We've made recent changes to the repository location and local development instructions of this project. Therefore, this section may be outdated. For now and pending the time that this section will be updated, you can get guidance on where to find and how to run this project in our collabo community Discord channel.
+{% endhint %}
 
 Find the local development instructions for the different Blocks Assistant projects in the tabs below, depending on the one you want to develop locally.
 

@@ -5,9 +5,7 @@
 
 ## PROJECT LOCAL DEVELOPMENT INSTRUCTIONS
 
-* [Blocks Assistant (Javascript)](project-local-development-instructions/blocks-assistant-javascript.md)
-* [Blocks Assistant (Dart & Flutter)](project-local-development-instructions/blocks-assistant-dart-and-flutter.md)
-* [Building Blocks](project-local-development-instructions/building-blocks.md)
-* [Collabocate (Javascript)](project-local-development-instructions/collabocate-javascript.md)
-* [Collabocate (Flutter)](project-local-development-instructions/collabocate-flutter.md)
-* [Collabo Community App](project-local-development-instructions/collabo-community-app.md)
+* [Collabocate \[Plugin\]](project-local-development-instructions/collabocate-plugin.md)
+* [Collabocate \[Website\]](project-local-development-instructions/collabocate-website.md)
+* [Build in Blocks \[Framework\]](project-local-development-instructions/build-in-blocks-framework.md)
+* [Build in Blocks \[Assistant\]](project-local-development-instructions/build-in-blocks-assistant.md)

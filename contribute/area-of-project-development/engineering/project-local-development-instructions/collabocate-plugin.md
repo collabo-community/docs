@@ -1,20 +1,24 @@
 ---
-description: SOFTWARE ENGINEERING CONTRIBUTING DOC FOR COLLABOCATE
+description: SOFTWARE ENGINEERING CONTRIBUTING DOC FOR COLLABOCATE PLUGIN
 ---
 
-# Collabocate (Javascript)
+# Collabocate \[Plugin]
 
 ***
 
 ## General Information about project
 
-{% content-ref url="https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/collabocate" %}
-[Collabocate](https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/collabocate)
+{% content-ref url="https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabocate-osc-projects/collabocate-plugin" %}
+[Collabocate \[Plugin\]](https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabocate-osc-projects/collabocate-plugin)
 {% endcontent-ref %}
 
 ***
 
 ## Local development instructions
+
+{% hint style="warning" %}
+We've made recent changes to the repository location and local development instructions of this project. Therefore, this section may be outdated. For now and pending the time that this section will be updated, you can get guidance on where to find and how to run this project in our collabo community Discord channel.
+{% endhint %}
 
 * Head over to the GitHub repository: [https://github.com/collabo-community/collabocate](https://github.com/collabo-community/collabocate)
 * Fork and clone the repository as shown in the [SWE contribution workflow](https://docs.collabo.community/software-engineering#git-workflow-fork-and-clone-repository).

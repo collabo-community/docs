@@ -1,20 +1,24 @@
 ---
-description: SOFTWARE ENGINEERING CONTRIBUTING DOC FOR COLLABO COMMUNITY APP
+description: SOFTWARE ENGINEERING CONTRIBUTING DOC FOR COLLABOCATE WEBSITE
 ---
 
-# Collabo Community App
+# Collabocate \[Website]
 
 ***
 
 ## General Information about project
 
-{% content-ref url="https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/collabo-community-app" %}
-[Collabo Community App](https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabo-projects/collabo-community-app)
+{% content-ref url="https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabocate-osc-projects/collabocate-website" %}
+[Collabocate \[Website\]](https://app.gitbook.com/s/D4inNwzMBU3WuBySeYcV/collabocate-osc-projects/collabocate-website)
 {% endcontent-ref %}
 
 ***
 
 ## Local development instructions
+
+{% hint style="warning" %}
+We've made recent changes to the repository location and local development instructions of this project. Therefore, this section may be outdated. For now and pending the time that this section will be updated, you can get guidance on where to find and how to run this project in our collabo community Discord channel.
+{% endhint %}
 
 Find the local development instructions for Collabo Community App projects in the tabs below, depending on the one you want to develop locally.
 
