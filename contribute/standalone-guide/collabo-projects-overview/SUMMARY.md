@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Projects Documentation: Collabocate's Collabo Community](README.md)
-* [Collabo Community on Discord](https://resources.collabo.community)
+* [Our Collabo Community on Discord](https://resources.collabo.community)
 
 ## COLLABOCATE OSC PROJECTS
 
