@@ -1,5 +1,5 @@
 ---
-description: CONTRIBUTE TO COLLABOCATE'S COLLABO COMMUNITY 🤗
+icon: bookmark
 cover: .gitbook/assets/Linkedin-Banner-1b-cropped.jpg
 coverY: 0
 metaLinks:
@@ -7,54 +7,41 @@ metaLinks:
     - https://app.gitbook.com/s/XdbpF9uCzy0cC5JUJYyW/
 ---
 
-# 👷 Contributing Guide: Home
+# Public Documentation Resources for Collabocate's Collabo Community
 
 ***
 
-_Community building and collaboration Image:_ [_Image Attribution_](https://resources.collabo.community/p/gciMw91qU6jJ23/Attributions)
+_The community and documentation resources for Collabocate's Collabo Community are listed here, for anytime you need to quickly and easily access them or refer back to them._
 
 ***
 
-_This contribution guide will help you find all the resources you will need to start contributing to Collabocate's Collabo Community and projects. First ensure to read up our community_ [_Code of Conduct_](https://docs.collabo.community/contribute/code-of-conduct)_._
+### First Timer Contributor Guide
+
+New to Collabocate's Collabo Community (or new to open source or tech), and wish to work on interesting projects while collaborating with other people? The first timer contributor guide will point you to where to go and what to do, to understand our community's contribution workflow and successfully submit your first contribution. [_Go to Guide for First Time Contributors_](https://resources.collabocate.community/first-timer-contributor)_._
 
 ***
 
-Quality comes before quantity in Collabocate's Collabo Community. We prefer you submit one thing (in time) and with good quality, than submitting 10 things (in time) that doesn't have quality. We are not expecting you to achieve this all by yourself. We are aware that you may not be used to the tools that we use or that this may be your first time in a setting like this. Therefore we provide you with as much assistance that we discover that you need, at the beginning of your journey with our community, and along the way.
+### Code of Conduct
+
+Before you start contributing, read up our Community Code of Conduct and rules to help understand how we'd like community members to comport themselves, relate with and be mindful of other members of the community. [_Go to Code of conduct_](https://resources.collabocate.community/contribute/code-of-conduct)_._
 
 ***
 
-## Contribution workflow for Collabo projects
+### Project Board
 
-Read up the contribution workflow document guide for the area(s) you are interested in contributing to. The contribution workflow will give you directions on how to access and partake in the projects that you are interested in contributing to. We have separated the content accordingly in to different documents, so that you only have to go through the one(s) that are of interest to you. Use the page links below to access the contribution workflow guides:
+{% hint style="warning" %}
+Access GitHub project boards using a web browser and not the GitHub mobile app, to see the project board layouts properly. GitHub mobile app does not yet support project board at the moment.
+{% endhint %}
 
-{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/uGDfGtsUTaBkuk5DjT56/" %}
-[Engineering](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/uGDfGtsUTaBkuk5DjT56/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/KPZEPQgHuygZL7kUQ4Yl/" %}
-[UI/UX & Graphic Design](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/KPZEPQgHuygZL7kUQ4Yl/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/DY7KQT5BdFsJ75hp3tnl/" %}
-[Writing: Technical & Non-Technical](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/DY7KQT5BdFsJ75hp3tnl/)
-{% endcontent-ref %}
+Our community project board have issue tickets, and also directs you to project boards that contain issue tickets, that have been sorted out by project maintainers and that are ready for fixing. Find issue tickets for the area you would like to contribute to, through the our community project board. [_Go to Project Board_](https://github.com/orgs/collabocate-osc/projects/1?pane=info)_._
 
 ***
 
-## Finding issue tickets and assignments to work on
+### Join Our Discord Community
 
-Use the project board or roadmap to find issue tickets to work on. Also read up why you should first get assigned to an issue from the project board page below.
+Give and receive feedback, get help and support, help and support others. Accept the invite to our Discord Community 🤝
 
-{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/1WERKLU4EwHAfMgNhwEA/" %}
-[Project Board](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/1WERKLU4EwHAfMgNhwEA/)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/xIZH0fUjjRg4ErdE5WPj/" %}
-[Roadmap](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/xIZH0fUjjRg4ErdE5WPj/)
-{% endcontent-ref %}
+_**Discord Community invite link:**_ [https://discord.gg/J4xeTD49fN](https://discord.gg/J4xeTD49fN)
 
 ***
 
-## Reporting issues you find with collabo projects
-
-We encourage you to report any (not yet reported) issues that you detect with any of our repositories or applications that you are working on. [Report issues for any of our repositories to _**Product Issue Reports**_](https://github.com/collabocate-osc/product-issue-reports/issues/new/choose). Repository maintainers will sort them out and send them to the appropriate columns on the Collabocate's Collabo Community Project Board, for you and other contributors to be able to start working on them.
