@@ -44,3 +44,8 @@ _**Discord Community invite link:**_ [https://discord.gg/J4xeTD49fN](https://dis
 
 ***
 
+### More About Our Community
+
+{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/zggIyQrP1tUSxCIz0xub/" %}
+[About Our Community](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/zggIyQrP1tUSxCIz0xub/)
+{% endcontent-ref %}
