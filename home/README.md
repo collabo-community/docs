@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Linkedin-Banner-1b-cropped.jpg
+cover: .gitbook/assets/cover-image-doc.png
 coverY: 0
 metaLinks:
   alternates:
