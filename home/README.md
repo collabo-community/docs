@@ -1,5 +1,4 @@
 ---
-icon: bookmark
 cover: .gitbook/assets/Linkedin-Banner-1b-cropped.jpg
 coverY: 0
 metaLinks:
