@@ -10,11 +10,19 @@ _Collabocate's Collabo Community Code of Conduct is derived, by combining the_ [
 
 ***
 
+## OSS projects using this CoC
+
+* [Collabocate](https://github.com/collabocate)
+* [Collabocate's Collabo Community](https://github.com/collabocate-osc)
+* [Build in Blocks](https://github.com/build-in-blocks)
+
+***
+
 ## Introduction: our CoC's purpose
 
-A primary goal of **Collabocate's Collabo Community** is to be inclusive; we understand that our contributors may come from varied and diverse backgrounds. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of the **open source communities that use this CoC** is to be inclusive; we understand that our contributors may come from varied and diverse backgrounds. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-We invite all those who participate in **Collabocate's Collabo Community** to help us create safe and positive experiences for everyone; and to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\
+We invite all those who participate in **our community** to help us create safe and positive experiences for everyone; and to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\
 \
 This code of conduct outlines our expectations for all those who participate in or contribute to our community, as well as the consequences for unacceptable behaviour.
 
@@ -34,8 +42,8 @@ You will see a "This is a sensitive topic" hint on a \[CoC] section, if it is ab
 
 ## \[CoC] Section 1: Discussion channels, spaces and DMs
 
-* Only discuss Collabocate's Collabo Community projects (or related project matters) in the project discussion chat, channels or spaces.
-* In general, use Collabocate's Collabo Community discussion channels or spaces for Collabocate's Collabo Community related conversations only.
+* Only discuss our community projects (or related project matters) in our community project discussion chat, channels or spaces.
+* In general, use our community discussion channels or spaces for our own community and project related conversations only.
 * Respect people, their beliefs and/or orientations even in DMs (i.e. Direct Messages).
 * Avoid disclosing your personal information or that of other people, on any group discussion chat, channels or spaces.
 
@@ -43,10 +51,10 @@ You will see a "This is a sensitive topic" hint on a \[CoC] section, if it is ab
 
 ## \[CoC] Section 2: Community members' project choice and questions
 
-* You cannot mock anyone for the kind of projects they choose to or choose not to participate in within Collabocate's Collabo Community.
+* You cannot mock anyone for the kind of projects they choose to or choose not to participate in within our community.
 * You cannot mock anyone for or discourage anyone from asking questions about community projects or task assignments.
 
-**For more context:** There is nothing like foolish or stupid question in Collabocate's Collabo Community. We encourage everyone to ask any question they have about Collabocate's Collabo Community, projects and the task assignments that they are working on. Even if you feel that what someone is asking or working on is too simple, we prefer you to help unblock them.
+**For more context:** There is nothing like foolish or stupid question in our community. We encourage everyone to ask any question they have about our community, projects and the task assignments that they are working on. Even if you feel that what someone is asking or working on is too simple, we prefer you to help unblock them.
 
 ***
 
@@ -58,6 +66,7 @@ This a sensitive topic
 
 * Respect and adhere to the Terms of Use agreement of any external product, platform, project or work, that you use or mention within our community.
 * Use external product, platform, project or work for our community project development, in accordance with the permissions granted in their licence.
+* Do not present other people's ideas, projects or works as your own.
 
 ***
 
@@ -162,7 +171,7 @@ This is a sensitive topic
 
 Whether it's a severe case or not, we prefer that the party or parties involved in breaking rules are directed to the Code of Conduct; to help identify the \[CoC section] rule broken, and the consequences or disciplinary actions that may follow/apply.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Anyone asked to stop unacceptable behaviour is expected to comply immediately.\
 Unacceptable behaviour from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 {% endhint %}
@@ -196,7 +205,7 @@ Whether they are related to sensitive topics or not, community maintainers will 
 
 ### \[4 of 5] Unwanted behaviour exhibited does not have a \[CoC] section
 
-We have tried to make our CoC cover a very broad scope. In the case the behaviour exhibited is determined as unwanted according to Collabocate's Collabo Community standards/values, and does not have a uniquely identifiable \[CoC] section to make reference to in other to determine what the disciplinary action will be:
+We have tried to make our CoC cover a very broad scope. In the case the behaviour exhibited is determined as unwanted according to our community standards/values, and does not have a uniquely identifiable \[CoC] section to make reference to in other to determine what the disciplinary action will be:
 
 * An existing \[CoC] section that has related topic/concept will be used at that point. If none is found to be related, community maintainers will deliberate on what disciplinary action is fair to implement based on the current disciplinary actions that we have on ground.
 * If or as needed, we will update the CoC so that this newly exhibited unwanted behaviour is properly documented.
@@ -218,15 +227,16 @@ Based on the above reasons, we will not condone any form of unacceptable behavio
 
 ## Reporting violations
 
-If an unacceptable or unwanted behaviour is directed at you, or if you witness it is being done to someone else, or have any other concerns, please notify the community maintainers as soon as possible at: **mail.collabocommunity@gmail.com**
+If an unacceptable or unwanted behaviour is directed at you, or if you witness it is being done to someone else, or have any other concerns, please notify the community maintainers as soon as possible at: **collabocate@gmail.com**
 
 All complaints will be reviewed and investigated promptly and fairly. To help us better look into the matter, please include the following if possible:
 
+* The name of the OSS community where it happened.
 * Discord usernames of people involved or who witnessed the incident.
-* Where it happened.
+* Where it happened i.e. online or in-person event?
 * When it happened, and is it currently ongoing?
 * Description of what happened and/or how it happened.
-* Conversation screenshot and/or link.
+* Conversation screenshot and/or link, if applicable.
 * Any additional context or information that you believe we should know about.
 
 {% hint style="info" %}
@@ -237,4 +247,4 @@ All community leaders and all involved party or parties in a case, are obligated
 
 ## Need clarity or have questions?
 
-If you need clarity about any part of this CoC or have any questions, feel free to ask on our discord community server here: [resources.collabo.community](https://resources.collabo.community)
+If you need clarity about any part of this CoC or have any questions, feel free to ask on our discord community server here: [resources.collabocate.community](https://resources.collabocate.community/)
