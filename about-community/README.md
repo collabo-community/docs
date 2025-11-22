@@ -75,6 +75,10 @@ What we were one time, and what we gradually transformed into. Well, let's just 
 
 Collabocate's Collabo Community now focuses on connecting you to open source software (OSS) projects, that dedicate their time to solve problems that tech communities and collaboration projects face. Particularly problems that causes discontinuity of many of these communities or products born out of collaboration (the opposite of these kind of problems are reflected in our values).
 
+{% hint style="info" %}
+Find open source communities that are connected to **Collabocate's Collabo Community**, through our [resource documentation home page](https://resources.collabocate.community/).
+{% endhint %}
+
 We welcome you to contribute to our reservoir of OSS projects regardless of where you come from, your skill level, or the area of interest you are pursuing in tech. We look forward to having you around!
 
 ***
