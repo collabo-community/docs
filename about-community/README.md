@@ -82,3 +82,11 @@ We welcome you to contribute to our reservoir of OSS projects regardless of wher
 ### Our Community Culture
 
 Collabocate's Collabo Community is about making life easier for the people you are working with or alongside, through your conduct (not just words only), without expecting the community coordinator, project maintainers or other contributors within the community to be the only ones making life easier for you. What the community is about is what we expect from you. Our community culture also includes helping people to learn our ways (if they are interested or want to). This is also reflected in the processes, workflows and projects we develop or connect you to. Because it is that "way" we want to share with the world, and we can't do it without people. We see you as valuable, just as you see us as valuable.
+
+***
+
+### Social Media handles
+
+**LinkedIn:** [https://www.linkedin.com/company/collabocate-osc](https://www.linkedin.com/company/collabocate-osc/)
+
+**X:** [https://x.com/collabocate\_OSC](https://x.com/collabocate_OSC)
