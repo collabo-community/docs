@@ -14,15 +14,21 @@ _The community and documentation resources for Collabocate's Collabo Community a
 
 ***
 
-### First Timer Contributor Guide
+### OSS Community Project List
 
-New to Collabocate's Collabo Community (or new to open source or tech), and wish to work on interesting projects while collaborating with other people? The first timer contributor guide will point you to where to go and what to do, to understand our community's contribution workflow and successfully submit your first contribution. [_Go to Guide for First Time Contributors_](https://resources.collabocate.community/first-timer-contributor)_._
+This public resource documentation is prepared by Collabocate's Collabo Community, and is used by a number of open source community projects along side other public community documentation that they provide for their contributors. [See Complete List of OSS Projects](https://resources.collabocate.community/oss-projects).
 
 ***
 
 ### Code of Conduct
 
-Before you start contributing, read up our Community Code of Conduct and rules to help understand how we'd like community members to comport themselves, relate with and be mindful of other members of the community. [_Go to Code of conduct_](https://resources.collabocate.community/contribute/code-of-conduct)_._
+Before you start contributing, read up our community Code of Conduct and rules to help understand how we'd like community members to comport themselves, relate with and be mindful of other members of the community. [_Go to Code of conduct_](https://resources.collabocate.community/contribute/code-of-conduct)_._
+
+***
+
+### First Timer Contributor Guide
+
+New to our community (or new to open source or tech), and wish to work on interesting projects while collaborating with other people? The first timer contributor guide will point you to where to go and what to do, to understand our community's contribution workflow and successfully submit your first contribution. [_Go to Guide for First Time Contributors_](https://resources.collabocate.community/first-timer-contributor)_._
 
 ***
 
