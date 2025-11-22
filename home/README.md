@@ -14,6 +14,30 @@ _The community and documentation resources for Collabocate's Collabo Community a
 
 ***
 
+### Your OSS contribution journey in 3 simple steps
+
+{% stepper %}
+{% step %}
+#### Join our discord community
+
+Accept the invite to join our Discord Community here 🤝 [https://discord.gg/J4xeTD49fN](https://discord.gg/J4xeTD49fN)
+{% endstep %}
+
+{% step %}
+#### Get instant notification for new issue tickets
+
+Receive prompts 📢 through the channel for the OSS community you are interested in 👀
+{% endstep %}
+
+{% step %}
+#### Pick a ticket to solve, submit your cool work!
+
+Yay! well done 🎉
+{% endstep %}
+{% endstepper %}
+
+***
+
 ### OSS Community Project List
 
 This public resource documentation is prepared by Collabocate's Collabo Community, and is used by a number of open source community projects along side other public community documentation that they provide for their contributors. [See Complete List of OSS Projects](https://resources.collabocate.community/oss-projects).
@@ -39,14 +63,6 @@ Access GitHub project boards using a web browser and not the GitHub mobile app, 
 {% endhint %}
 
 Our community project board have issue tickets, and also directs you to project boards that contain issue tickets, that have been sorted out by project maintainers and that are ready for fixing. Find issue tickets for the area you would like to contribute to, through our community project board. [_Go to Project Board_](https://github.com/orgs/collabocate-osc/projects/1?pane=info)_._
-
-***
-
-### Join Our Discord Community
-
-Give and receive feedback, get help and support, help and support others. Accept the invite to our Discord Community 🤝
-
-_**Discord Community invite link:**_ [https://discord.gg/J4xeTD49fN](https://discord.gg/J4xeTD49fN)
 
 ***
 
