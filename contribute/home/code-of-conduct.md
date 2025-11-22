@@ -10,15 +10,11 @@ _Collabocate's Collabo Community Code of Conduct is derived, by combining the_ [
 
 ***
 
-## OSS projects using this CoC
-
-* [Collabocate](https://github.com/collabocate)
-* [Collabocate's Collabo Community](https://github.com/collabocate-osc)
-* [Build in Blocks](https://github.com/build-in-blocks)
-
-***
-
 ## Introduction: our CoC's purpose
+
+{% hint style="info" %}
+Find the list of open source communities that are connected to **Collabocate's Collabo Community** and use this Code of Conduct, through our [resource documentation home page](https://resources.collabocate.community/).
+{% endhint %}
 
 A primary goal of the **open source communities that use this CoC** is to be inclusive; we understand that our contributors may come from varied and diverse backgrounds. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
