@@ -1,11 +1,10 @@
 ---
-icon: square-github
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/bTnisuuWaE4RFg1tVIb6/
 ---
 
-# OSS Projects and Communities
+# OSS projects and communities
 
 ***
 
@@ -15,7 +14,7 @@ Read about how these OSS projects are connected to **Collabocate's Collabo Commu
 
 ***
 
-The Open Source Software (OSS) projects and communities listed on this page make use of the [public documentation resources for Collabocate's Collabo Community](https://resources.collabocate.community/), in addition to whatever public documentation that they have.
+The Open Source Software (OSS) projects and communities listed on this page make use of the [public documentation resources for Collabocate's Collabo Community](https://resources.collabocate.community/), in addition to the public documentation that they provide.
 
 * [Collabocate's Collabo Community](https://github.com/collabocate-osc)
 * [Collabocate](https://github.com/collabocate)

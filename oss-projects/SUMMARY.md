@@ -1,3 +1,3 @@
 # Table of contents
 
-* [OSS Projects and Communities](README.md)
+* [OSS projects and communities](README.md)
