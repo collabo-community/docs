@@ -32,7 +32,7 @@ Before you start contributing, read up our Community Code of Conduct and rules t
 Access GitHub project boards using a web browser and not the GitHub mobile app, to see the project board layouts properly. GitHub mobile app does not yet support project board at the moment.
 {% endhint %}
 
-Our community project board have issue tickets, and also directs you to project boards that contain issue tickets, that have been sorted out by project maintainers and that are ready for fixing. Find issue tickets for the area you would like to contribute to, through the our community project board. [_Go to Project Board_](https://github.com/orgs/collabocate-osc/projects/1?pane=info)_._
+Our community project board have issue tickets, and also directs you to project boards that contain issue tickets, that have been sorted out by project maintainers and that are ready for fixing. Find issue tickets for the area you would like to contribute to, through our community project board. [_Go to Project Board_](https://github.com/orgs/collabocate-osc/projects/1?pane=info)_._
 
 ***
 
