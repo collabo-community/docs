@@ -8,9 +8,11 @@ metaLinks:
 
 # Public Documentation Resources for Collabocate's Collabo Community
 
+
+
 ***
 
-_What is Collabocate FOSS community (also known as Collabocate's Collabo Community)?_ [_Learn more about our community here_](https://resources.collabocate.community/about-community)_._
+_What is Collabocate Open Source Community (also known as Collabocate's Collabo Community)?_ [_Learn more about our community here_](https://resources.collabocate.community/about-community)_._
 
 ***
 
