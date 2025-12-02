@@ -34,14 +34,16 @@ Before you start contributing, read up our community Code of Conduct and rules t
 
 ### First Timer Contributor Guide
 
-New to our community (or new to open source or tech), and wish to work on interesting projects while collaborating with other people? The first timer contributor guide will point you to where to go and what to do, to understand our community's contribution workflow and successfully submit your first contribution. [_Go to Guide for First Time Contributors_](https://resources.collabocate.community/first-timer-contributor)_._
+Welcome! So thrilled that you have made a decision to check out our community. This very special guide will help you understand our community's contribution workflow and successfully submit your first set of contributions. [_Go to Guide for First Time Contributors_](https://resources.collabocate.community/first-timer-contributor)_._
 
 ***
 
-### Project Board
+### Guide For Advanced Contributors
 
-{% hint style="warning" %}
-Access GitHub project boards using a web browser and not the GitHub mobile app, to see the project board layouts properly. GitHub mobile app does not yet support project board at the moment.
-{% endhint %}
+Here's some more helpful documentation for advanced contributors. The term "advanced contributor" is used to describe contributors who have completed all task assignments from the first timer guide, and wish to work on more challenging problem-solving issue tickets. [Go to Guide for Advanced Contributors](https://resources.collabocate.community/contribute).
 
-Our community project board have issue tickets, and also directs you to project boards that contain issue tickets, that have been sorted out by project maintainers and that are ready for fixing. Find issue tickets for the area you would like to contribute to, through our community project board. [_Go to Project Board_](https://github.com/orgs/collabocate-osc/projects/1?pane=info)_._
+***
+
+### Paid Community Cohort Programs
+
+We organise cohort programs one or two times a year, that encourage collaboration between our OSS partner communities. Interns and mentors accepted into the cohort programs are supported with a stipend. [Go to Community Cohort Program Documentation](https://resources.collabocate.community/cohort-programs).
