@@ -6,6 +6,14 @@ metaLinks:
 
 # About Collabocate's Collabo Community
 
+
+
+***
+
+{% hint style="info" %}
+This documentation page is part of Collabocate's Collabo Community [resource documentation](https://resources.collabocate.community/).
+{% endhint %}
+
 ***
 
 ### Our Mission
@@ -67,7 +75,7 @@ What we were one time, and what we gradually transformed into. Well, let's just 
 * **March 2023:** Code Collabo FOSS community became very active again, creating a (remote) experiment program (with paid and unpaid) open source opportunities to equip participants with tech job experience. UI/UX Design was introduced later in May 2023. This was still consistent with 2021 happenings. At the time the community was just about helping new techies or techies with little or no experience to upgrade from dummy "to-do app" projects.
 * **October 2023:** After some restructuring, the community name was changed to Collabo Community, with one sub-community under it: the Code Collabo FOSS community (i.e. Collabo Community for techies). Code Collabo folks were to build and come up with the tech solutions for solving the problems that the Collabo Community seeks to address. A by-product is that techies who join the community get quality projects to contribute to and make meaningful impact even as they learn.
 * **May 2025:** Name changed to Collabocate's Collabo Community - more information on how the name was derived in this official [linkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7347217690035417088).
-* **November 2025:** Based on the changes and restructuring in May 2025, the mission, vision and what the community is about also got updated. We no longer have "sub-communities", and we do not own the projects: we just "gather", "link" and "connect". We're starting with two projects that have open source parts: Build in Blocks and Collabocate.
+* **November 2025:** Based on the changes and restructuring in May 2025, the mission, vision and what the community is about also evolved. We no longer have "sub-communities", and we do not own the projects: we just "gather", "link" and "connect". We're starting with two projects that have open source parts: Collabocate and Build in Blocks.
 
 ***
 
@@ -75,11 +83,7 @@ What we were one time, and what we gradually transformed into. Well, let's just 
 
 Collabocate's Collabo Community now focuses on connecting you to open source software (OSS) projects, that dedicate their time to solve problems that tech communities and collaboration projects face. Particularly problems that causes discontinuity of many of these communities or products born out of collaboration (the opposite of these kind of problems are reflected in our values).
 
-{% hint style="info" %}
-Find open source communities that are connected to **Collabocate's Collabo Community**, through our [resource documentation home page](https://resources.collabocate.community/).
-{% endhint %}
-
-We welcome you to contribute to our reservoir of OSS projects regardless of where you come from, your skill level, or the area of interest you are pursuing in tech. We look forward to having you around!
+We welcome you to contribute to any of our OSS partner projects regardless of where you come from, your skill level, or the area of interest you are pursuing in tech. We look forward to having you around!
 
 ***
 
@@ -91,6 +95,6 @@ Collabocate's Collabo Community is about making life easier for the people you a
 
 ### Social Media handles
 
-**LinkedIn:** [https://www.linkedin.com/company/collabocate-osc](https://www.linkedin.com/company/collabocate-osc/)
+**LinkedIn:** [https://www.linkedin.com/company/collabocate-osc](https://www.linkedin.com/company/collabocate-osc)
 
 **X:** [https://x.com/collabocate\_OSC](https://x.com/collabocate_OSC)
