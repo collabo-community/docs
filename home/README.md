@@ -10,19 +10,17 @@ metaLinks:
 
 ***
 
-_The community and documentation resources for Collabocate's Collabo Community are listed here, for anytime you need to quickly and easily access them or refer back to them._
+_What is Collabocate FOSS community (also known as Collabocate's Collabo Community)?_ [_Learn more about our community here_](https://resources.collabocate.community/about-community)_._
+
+***
+
+_Which open source projects and/or communities use this public resource documentation?_ [_See Complete List of OSS communities here_](https://resources.collabocate.community/oss-projects)_._
 
 ***
 
 ### Your OSS contribution journey in 3 simple steps
 
 {% include ".gitbook/includes/stepper-oss-contributor-journey.md" %}
-
-***
-
-### OSS Community Project List
-
-This public resource documentation is prepared by Collabocate's Collabo Community, and is used by a number of open source community projects along side other public community documentation that they provide for their contributors. [See Complete List of OSS Projects](https://resources.collabocate.community/oss-projects).
 
 ***
 
@@ -45,11 +43,3 @@ Access GitHub project boards using a web browser and not the GitHub mobile app, 
 {% endhint %}
 
 Our community project board have issue tickets, and also directs you to project boards that contain issue tickets, that have been sorted out by project maintainers and that are ready for fixing. Find issue tickets for the area you would like to contribute to, through our community project board. [_Go to Project Board_](https://github.com/orgs/collabocate-osc/projects/1?pane=info)_._
-
-***
-
-### More About Our Community
-
-{% content-ref url="https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/zggIyQrP1tUSxCIz0xub/" %}
-[About Our Community](https://app.gitbook.com/o/-MWSSST6_GF5VEuG0Atd/s/zggIyQrP1tUSxCIz0xub/)
-{% endcontent-ref %}
