@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/cover-image-doc.png
+cover: .gitbook/assets/Main-Doc-Cover-illustration.jpg
 coverY: 0
 metaLinks:
   alternates:
