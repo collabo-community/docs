@@ -5,6 +5,8 @@ coverY: 0
 
 # First Timer Contributor Guide: Collabocate's Collabo Community
 
+
+
 ***
 
 {% hint style="info" %}
@@ -28,10 +30,6 @@ This is an old YouTube video. The YouTube video will be updated to match the You
 {% embed url="https://youtu.be/ZC5XrQFV4Nc" %}
 Video: How to find first timer tasks through our project board
 {% endembed %}
-
-***
-
-### Youtube video summarized in 3 simple steps <a href="#discussions-list" id="discussions-list"></a>
 
 {% stepper %}
 {% step %}
